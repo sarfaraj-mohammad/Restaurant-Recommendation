@@ -63,9 +63,8 @@ def display_details(rest_df):
         
         rest_img_ind = st.session_state[rest_sess_img_var]
         if img_cnt:
-            st.image(images[rest_img_ind])
+            st.image(images[rest_img_ind], use_column_width=True)
         else:
-            # with st.container():
             st.caption('This restaurant hasn\'t uploaded any images.')
         
         prev, next = st.columns(2)

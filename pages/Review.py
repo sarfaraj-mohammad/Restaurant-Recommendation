@@ -67,10 +67,9 @@ def review_restaurant(rating_df):
     
     rest_img_ind = st.session_state[rest_sess_img_var]
     if img_cnt:
-        st.image(images[rest_img_ind])
+        st.image(images[rest_img_ind], use_column_width=True)
     else:
-        with st.container(height=200):
-            st.caption('This restaurant hasn\'t uploaded any images.')
+        st.caption('This restaurant hasn\'t uploaded any images.')
     
     prev, next = st.columns(2)
     prev_btn_key = 'prev_' + rest_sess_img_var
