@@ -1,9 +1,15 @@
+import pymysql
 import pandas as pd
 import streamlit as st
 import glob
 
 
-conn = st.connection('mysql', type='sql')
+conn = pymysql.connect(host="adtprojectinstance1.c1w4kuymk7je.us-east-1.rds.amazonaws.com",
+                        user="admin",
+                        password='adtproject123')
+# cur = conn.cursor()
+
+# conn = st.connection('mysql', type='sql')
 
 if 'conn' not in st.session_state:
     st.session_state.conn = conn
