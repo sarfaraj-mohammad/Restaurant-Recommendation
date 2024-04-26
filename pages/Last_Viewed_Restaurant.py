@@ -96,7 +96,7 @@ def display_details(rest_df):
         st.markdown('### Reviews')
         for i in range(len(rest_df)):
             with st.container(border=True):
-                st.markdown(f'#### {rest_df["first_name"][i]} {rest_df["last_name"][i]} {rest_df["userID"][i]}')
+                st.markdown(f'#### {rest_df["first_name"][i]} {rest_df["last_name"][i]}')
                 rating_cont, comment_cont = st.columns([0.3, 0.7])
                 rating_cont.markdown(f'###### Overall Rating: {rest_df["rating"][i]} :star:')
                 rating_cont.markdown(f'###### Food Rating: {rest_df["food_rating"][i]} :star:')
