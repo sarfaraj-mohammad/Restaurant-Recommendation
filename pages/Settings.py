@@ -7,8 +7,9 @@ import datetime
 from sqlalchemy.sql import text
 from pages.Sign_In import validate_required_fields
 
+
 if 'conn' not in st.session_state:
-    conn = st.connection('mysql', type='sql')
+    conn = st.connection('aws_rds', type='sql')
 else:
     conn = st.session_state.conn
 
@@ -95,8 +96,8 @@ def display_user_data(user_df):
 
         marital_cont, birth_year_cont = st.columns(2)
         marital_status_text_val = marital_cont.text_input('Marital Status', value=user_df['marital_status'], disabled=editing_disabled)
-        birth_year_val = birth_year_cont.selectbox('Birth Year', range(datetime.date.today().year, 1990, -1), 
-                                                   index=range(datetime.date.today().year, 1990, -1).index(user_df['birth_year']), disabled=editing_disabled)
+        birth_year_val = birth_year_cont.selectbox('Birth Year', range(datetime.date.today().year, 1930, -1), 
+                                                   index=range(datetime.date.today().year, 1930, -1).index(user_df['birth_year']), disabled=editing_disabled)
 
         hijos_cont, pers_cont = st.columns(2)
         hijos_text_val = hijos_cont.text_input('Hijos', value=user_df['hijos'], disabled=editing_disabled)

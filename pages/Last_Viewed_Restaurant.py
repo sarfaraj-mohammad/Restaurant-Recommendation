@@ -4,7 +4,7 @@ import glob
 import time
 
 if 'conn' not in st.session_state:
-    conn = st.connection('mysql', type='sql')
+    conn = st.connection('aws_rds', type='sql')
 else:
     conn = st.session_state.conn
 
@@ -62,7 +62,11 @@ def display_details(rest_df):
             st.session_state[rest_sess_img_var] = 0
         
         rest_img_ind = st.session_state[rest_sess_img_var]
-        st.image(images[rest_img_ind], use_column_width=True)
+        if img_cnt:
+            st.image(images[rest_img_ind])
+        else:
+            with st.container(height=200):
+                st.caption('This restaurant hasn\'t uploaded any images.')
         
         prev, next = st.columns(2)
         prev_btn_key = 'prev_' + rest_sess_img_var
@@ -80,7 +84,7 @@ def display_details(rest_df):
         st.markdown(f'##### Address: {rest_addr}')
 
         cont1, cont2 = st.columns(2)
-        cont1.button(label='Reserve Table :knife_fork_plate:', use_container_width=True)
+        cont1.button(label='Reserve Table :knife_fork_plate:', help='This option will be available soon.', use_container_width=True)
 
         if cont2.button(label='Leave Review :spiral_note_pad:', key='review_' + rest_id, args=[rest_id], use_container_width=True):
             if 'rest_details_id' not in st.session_state:

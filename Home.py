@@ -73,7 +73,11 @@ def display_restaurants(cols, restaurants_df):
                 st.session_state[rest_sess_img_var] = 0
             
             rest_img_ind = st.session_state[rest_sess_img_var]
-            st.image(images[rest_img_ind])
+            if img_cnt:
+                st.image(images[rest_img_ind])
+            else:
+                with st.container(height=200):
+                    st.caption('This restaurant hasn\'t uploaded any images.')
             
             prev, next = st.columns(2)
             prev_btn_key = 'prev_' + rest_sess_img_var
@@ -95,9 +99,12 @@ def display_restaurants(cols, restaurants_df):
                 st.session_state.previous_page = 'Home.py'
                 st.switch_page('pages/Last_Viewed_Restaurant.py')
 
-data = load_data()
 
+data = load_data()
 cols = 3
+
 display_restaurants(cols, data)
 
-st.button('Load More', on_click=load_more_click_button)
+
+if st.session_state.rest_df_load_counter <= data.shape[0]:
+    st.button('Load More', on_click=load_more_click_button)
