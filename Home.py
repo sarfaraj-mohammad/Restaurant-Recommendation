@@ -35,7 +35,7 @@ def load_data():
                                   (SELECT placeID, COUNT(rating) rating_cnt, ROUND(AVG(rating), 1) rating, ROUND(AVG(food_rating), 1) food_rating, ROUND(AVG(service_rating), 1) service_rating
                                    FROM ratings
                                    GROUP BY placeID) rest_ratings;
-                             ''') #, ttl=0)
+                             ''', ttl=0)
     
     restaurants['name'] = restaurants['name'].apply(lambda x: x.replace('_', ' '))
 
