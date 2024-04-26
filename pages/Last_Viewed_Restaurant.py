@@ -65,8 +65,8 @@ def display_details(rest_df):
         if img_cnt:
             st.image(images[rest_img_ind])
         else:
-            with st.container():
-                st.caption('This restaurant hasn\'t uploaded any images.')
+            # with st.container():
+            st.caption('This restaurant hasn\'t uploaded any images.')
         
         prev, next = st.columns(2)
         prev_btn_key = 'prev_' + rest_sess_img_var
