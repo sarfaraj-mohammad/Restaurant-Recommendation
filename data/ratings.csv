@@ -1,0 +1,978 @@
+ratingID,userID,placeID,rating,food_rating,service_rating,comments
+0,1001,135040,3,3,3,"I mean really, how do you get so famous for your fish and chips when it's so terrible!?!"
+1,1001,135033,3,3,3,It's too bad the food is so damn generic.
+2,1001,135045,3,3,3,We are so glad we found this place.
+3,1001,135025,4,4,4,I'll take my business dinner dollars elsewhere.
+4,1001,135051,3,3,4,It also took her forever to bring us the check when we asked for it.
+5,1001,135085,2,3,3,"Not to mention the combination of pears, almonds and bacon is a big winner!"
+6,1001,135039,3,3,3,It was pretty gross!
+7,1001,132825,4,4,3,"In summary, this was a largely disappointing dining experience."
+8,1002,135085,3,3,3,Great brunch spot.
+9,1002,135052,3,3,3,"Our server was very nice, and even though he looked a little overwhelmed with all of our needs, he stayed professional and friendly until the end."
+10,1002,135059,3,4,3,We walked away stuffed and happy about our first Vegas buffet experience.
+11,1002,135041,4,3,2,By this time our side of the restaurant was almost empty so there was no excuse.
+12,1002,132862,4,4,4,Their steaks are 100% recommended!
+13,1002,135106,3,3,3,What happened next was pretty....off putting.
+14,1002,135062,3,4,3,"Our waiter was very attentive, friendly, and informative."
+15,1002,132825,4,4,2,We made the drive all the way from North Scottsdale... and I was not one bit disappointed!
+16,1003,132862,3,4,4,This is the place where I first had pho and it was amazing!!
+17,1003,135079,4,4,4,"This place is a jewel in Las Vegas, and exactly what I've been hoping to find in nearly ten years living here."
+18,1003,135041,2,3,3,Service is also cute.
+19,1003,135059,4,4,4,I promise they won't disappoint.
+20,1003,135080,4,3,4,We'll never go again.
+21,1003,135064,2,2,2,TOTAL WASTE OF TIME.
+22,1003,132755,4,4,3,It was delicious!!!
+23,1003,135075,4,4,4,All I have to say is the food was amazing!!!
+24,1003,132754,4,4,4,Ordered burger rare came in we'll done.
+25,1003,132825,4,4,3,"like the other reviewer said ""you couldn't pay me to eat at this place again."""
+26,1003,132937,4,4,3,"The food was delicious, our bartender was attentive and personable AND we got a great deal!"
+27,1004,135028,4,4,4,The bathrooms are clean and the place itself is well decorated.
+28,1004,135062,4,4,3,I won't try going back there even if it's empty.
+29,1004,135032,4,4,4,"Not much flavor to them, and very poorly constructed."
+30,1004,135106,4,4,4,We aren't ones to make a scene at restaurants but I just don't get it...definitely lost the love after this one!
+31,1004,135060,3,3,3,"One nice thing was that they added gratuity on the bill since our party was larger than 6 or 8, and they didn't expect more tip than that."
+32,1004,132955,4,4,4,Nargile - I think you are great.
+33,1004,132958,4,4,4,The Buffet at Bellagio was far from what I anticipated.
+34,1004,132954,4,4,4,I've had better bagels from the grocery store.
+35,1005,135032,4,3,4,I swung in to give them a try but was deeply disappointed.
+36,1005,135076,4,4,3,Pretty good beer selection too.
+37,1005,135042,4,3,4,Great Pizza and Salads!
+38,1005,135057,3,4,3,The manager was the worst.
+39,1005,135041,3,3,3,We've have gotten a much better service from the pizza place next door than the services we received from this restaurant.
+40,1005,135066,4,3,3,Food arrived quickly!
+41,1005,135050,3,4,3,Have been going since 2007 and every meal has been awesome!!
+42,1005,135043,2,4,2,Which are small and not worth the price.
+43,1006,135030,3,3,4,"The staff are great, the ambiance is great."
+44,1006,135079,3,3,3,Spend your money elsewhere.
+45,1006,135026,4,4,4,I came back today since they relocated and still not impressed.
+46,1006,135075,3,3,4,"At least 40min passed in between us ordering and the food arriving, and it wasn't that busy."
+47,1006,135048,3,3,4,Food was really good and I got full petty fast.
+48,1006,132825,3,3,3,By far the BEST cheesecurds we have ever had!
+49,1006,132954,3,3,3,The selection on the menu was great and so were the prices.
+50,1007,135085,3,4,2,I dont think I will be back for a very long time.
+51,1007,135032,3,3,2,"To my disbelief, each dish qualified as the worst version of these foods I have ever tasted."
+52,1007,135038,3,3,2,Cooked to perfection and the service was impeccable.
+53,1007,135086,2,2,2,This is a great restaurant at the Mandalay Bay.
+54,1007,135025,3,3,3,"I started this review with two stars, but I'm editing it to give it only one."
+55,1007,135057,3,3,4,Service was excellent and prices are pretty reasonable considering this is Vegas and located inside the Crystals shopping mall by Aria.
+56,1007,135108,3,3,3,"Anyways, The food was definitely not filling at all, and for the price you pay you should expect more."
+57,1007,135058,3,4,3,The steak was amazing...rge fillet relleno was the best seafood plate i have ever had!
+58,1008,132866,3,3,3,I've never been more insulted or felt disrespected.
+59,1008,132858,3,4,3,That's right....the red velvet cake.....ohhh this stuff is so good.
+60,1008,132869,3,3,3,There is not a deal good enough that would drag me into that establishment again.
+61,1008,135054,3,3,3,"Now the burgers aren't as good, the pizza which used to be amazing is doughy and flavorless."
+62,1008,132854,4,4,3,Wow very spicy but delicious.
+63,1008,135069,3,3,3,The chips and sals a here is amazing!!!!!!!!!!!!!!!!!!!
+64,1008,135108,3,3,2,We waited an hour for what was a breakfast I could have done 100 times better at home.
+65,1008,132846,3,3,3,The owners are super friendly and the staff is courteous.
+66,1009,132862,4,3,4,An extensive menu provides lots of options for breakfast.
+67,1009,135079,3,4,4,"seems like a good quick place to grab a bite of some familiar pub food, but do yourself a favor and look elsewhere."
+68,1009,135059,4,3,3,I give it 2 thumbs down
+69,1009,135063,2,2,2,I didn't know pulled pork could be soooo delicious.
+70,1009,135060,3,3,3,Ample portions and good prices.
+71,1009,135038,4,4,4,The food came out at a good pace.
+72,1009,135058,3,3,4,"Not a weekly haunt, but definitely a place to come back to every once in a while."
+73,1009,132754,3,4,3,Just as good as when I had it more than a year ago!
+74,1009,135052,4,3,2,My first visit to Hiro was a delight!
+75,1009,132825,3,3,2,I had to wait over 30 minutes to get my drink and longer to get 2 arepas.
+76,1009,132834,4,4,3,It was way over fried.
+77,1010,135065,3,3,3,"We had so much to say about the place before we walked in that he expected it to be amazing, but was quickly disappointed."
+78,1010,135076,3,4,4,Restaurant is always full but never a wait.
+79,1010,135042,4,4,4,"I loved the grilled pizza, reminded me of legit Italian pizza."
+80,1010,135053,3,3,3,I liked the patio and the service was outstanding.
+81,1010,135079,2,2,2,My fella got the huevos rancheros and they didn't look too appealing.
+82,1010,135064,2,4,2,"Very good food, great atmosphere.1"
+83,1010,135047,3,3,3,I'm not eating here!
+84,1010,135058,3,2,2,The place was not clean and the food oh so stale!
+85,1012,134983,4,4,4,Kids pizza is always a hit too with lots of great side dish options for the kiddos!
+86,1012,135001,3,3,4,"This isn't a small family restaurant, this is a fine dining establishment."
+87,1012,135018,4,4,4,"Overall, I was very disappointed with the quality of food at Bouchon."
+88,1012,134996,4,4,4,"I have been in more than a few bars in Vegas, and do not ever recall being charged for tap water."
+89,1012,134986,4,4,4,Overall I wasn't very impressed with Noca.
+90,1013,135076,3,3,2,"The wontons were thin, not thick and chewy, almost melt in your mouth."
+91,1013,135079,3,3,3,Hands down my favorite Italian restaurant!
+92,1013,135060,3,3,2,After two I felt disgusting.
+93,1013,132951,4,4,4,Their rotating beers on tap is also a highlight of this place.
+94,1013,135075,4,4,3,This place deserves one star and 90% has to do with the food.
+95,1013,135085,3,4,2,Penne vodka excellent!
+96,1013,135072,4,3,3,!....THE OWNERS REALLY REALLY need to quit being soooooo cheap let them wrap my freaking sandwich in two papers not one!
+97,1014,135082,2,2,2,We sat another ten minutes and finally gave up and left.
+98,1014,135070,4,4,4,The food is good.
+99,1014,135069,3,2,3,Couldn't ask for a more satisfying meal.
+100,1014,135076,3,4,3,I was VERY disappointed!!
+101,1014,135042,3,3,2,My husband said she was very rude... did not even apologize for the bad food or anything.
+102,1014,135057,3,2,4,Our server was very nice and attentive as were the other serving staff.
+103,1014,135081,4,3,3,A FLY was in my apple juice.. A FLY!!!!!!!!
+104,1014,135066,4,3,4,I would not recommend this place.
+105,1014,135050,4,4,4,He deserves 5 stars.
+106,1014,135043,3,2,2,Their chow mein is so good!
+107,1015,135071,2,2,2,My fiancé and I came in the middle of the day and we were greeted and seated right away.
+108,1015,132866,2,3,3,We waited for thirty minutes to be seated (although there were 8 vacant tables and we were the only folks waiting).
+109,1015,132869,4,4,4,Any grandmother can make a roasted chicken better than this one.
+110,1015,135054,3,3,3,Definitely not worth the $3 I paid.
+111,1015,132870,2,2,3,The live music on Fridays totally blows.
+112,1015,132845,3,3,3,All the bread is made in-house!
+113,1016,135106,4,4,4,The turkey and roast beef were bland.
+114,1016,132856,4,4,4,"The chipolte ranch dipping sause was tasteless, seemed thin and watered down with no heat."
+115,1016,132862,4,4,4,The service was terrible though.
+116,1016,135042,3,4,4,I ordered the Voodoo pasta and it was the first time I'd had really excellent pasta since going gluten free several years ago.
+117,1016,135045,4,4,4,I love the decor with the Chinese calligraphy wall paper.
+118,1016,135066,4,4,4,OMG I felt like I had never eaten Thai food until this dish.
+119,1016,135060,4,4,4,"For about 10 minutes, we we're waiting for her salad when we realized that it wasn't coming any time soon."
+120,1016,135051,4,4,2,We got the food and apparently they have never heard of salt and the batter on the fish was chewy.
+121,1016,135052,4,4,4,"Total letdown, I would much rather just go to the Camelback Flower Shop and Cartel Coffee."
+122,1016,135062,4,4,4,Ambience is perfect.
+123,1016,135032,4,4,4,It kept getting worse and worse so now I'm officially done.
+124,1016,135085,4,4,2,It shouldn't take 30 min for pancakes and eggs.
+125,1016,132834,4,4,4,Im in AZ all the time and now have my new spot.
+126,1017,134983,2,2,3,Hell no will I go back
+127,1017,132768,3,3,3,"That just SCREAMS ""LEGIT"" in my book...somethat's also pretty rare here in Vegas."
+128,1018,135062,2,2,3,"I probably won't be back, to be honest."
+129,1018,135032,3,3,3,"Unfortunately, we must have hit the bakery on leftover day because everything we ordered was STALE."
+130,1018,135082,4,4,4,"When I'm on this side of town, this will definitely be a spot I'll hit up again!"
+131,1018,135069,2,3,3,Waitress was sweet and funny.
+132,1018,135025,3,3,3,The only reason to eat here would be to fill up before a night of binge drinking just to get some carbs in your stomach.
+133,1018,135057,3,3,2,If she had not rolled the eyes we may have stayed... Not sure if we will go back and try it again.
+134,1018,135066,3,3,3,This place has a lot of promise but fails to deliver.
+135,1018,135108,3,2,3,"Overall, a great experience."
+136,1018,135081,3,3,3,But I don't like it.
+137,1018,135043,2,2,2,The staff was very attentive.
+138,1019,135079,2,2,2,"This hole in the wall has great Mexican street tacos, and friendly staff."
+139,1019,135038,2,2,2,If someone orders two tacos don't' you think it may be part of customer service to ask if it is combo or ala cart?
+140,1019,135062,2,2,2,My friend loved the salmon tartar.
+141,1019,132856,2,2,2,Con: spotty service.
+142,1019,135086,2,2,2,I probably won't be coming back here.
+143,1019,135076,2,2,2,This place is way too overpriced for mediocre food.
+144,1019,132834,2,2,2,Not much seafood and like 5 strings of pasta at the bottom.
+145,1020,135088,3,4,2,Server did a great job handling our large rowdy table.
+146,1020,134996,3,3,3,"Great Subway, in fact it's so good when you come here every other Subway will not meet your expectations."
+147,1020,132768,4,4,4,"Also, the fries are without a doubt the worst fries I've ever had."
+148,1022,135040,2,2,2,I would definitely recommend the wings as well as the pizza.
+149,1022,135033,3,3,4,It is PERFECT for a sit-down family meal or get together with a few friends.
+150,1022,135045,4,3,3,The servers are not pleasant to deal with and they don't always honor Pizza Hut coupons.
+151,1022,135025,2,2,2,This is one of the better buffets that I have been to.
+152,1022,135057,4,4,4,There was hardly any meat.
+153,1022,135063,4,3,4,"Best Buffet in town, for the price you cannot beat it."
+154,1022,135060,3,3,4,The steak and the shrimp are in my opinion the best entrees at GC.
+155,1022,135038,4,3,4,I won't be back.
+156,1022,135081,2,4,3,The best place to go for a tasty bowl of Pho!
+157,1022,135051,4,3,3,The service was meh.
+158,1022,135052,4,4,4,My husband and I ate lunch here and were very disappointed with the food and service.
+159,1022,135073,4,4,4,The service was a bit lacking.
+160,1022,135062,3,4,3,"No allergy warnings on the menu, and the waitress had absolutely no clue as to which meals did or did not contain peanuts."
+161,1022,135032,3,3,4,Very disappointing!!!
+162,1024,135039,4,4,4,Just spicy enough.. Perfect actually.
+163,1024,135073,3,4,2,Weird vibe from owners.
+164,1024,135032,4,4,4,Service sucks.
+165,1024,135028,3,3,3,I had about two bites and refused to eat anymore.
+166,1024,135027,3,4,2,Will not be back.
+167,1024,135051,3,3,2,The service here leaves a lot to be desired.
+168,1024,135060,3,2,4,Don't do it!!!!
+169,1024,135106,3,3,3,Their regular toasted bread was equally satisfying with the occasional pats of butter... Mmmm...!
+170,1024,135042,3,4,3,"This place is overpriced, not consistent with their boba, and it really is OVERPRICED!"
+171,1024,135045,4,4,2,"Poor service, the waiter made me feel like I was stupid every time he came to the table."
+172,1024,135030,3,3,3,Waited and waited and waited.
+173,1024,135041,3,3,3,Food was great and so was the serivce!
+174,1024,135038,3,3,2,"The owner used to work at Nobu, so this place is really similar for half the price."
+175,1024,132825,3,3,2,"For a self proclaimed coffee cafe, I was wildly disappointed."
+176,1024,132834,3,3,3,Pretty cool I would say.
+177,1025,132866,4,3,4,They also now serve Indian naan bread with hummus and some spicy pine nut sauce that was out of this world.
+178,1025,135028,4,3,2,"The staff is always super friendly and helpful, which is especially cool when you bring two small boys and a baby!"
+179,1025,135071,4,4,4,Each day of the week they have a different deal and it's all so delicious!
+180,1025,135047,3,3,3,There was a warm feeling with the service and I felt like their guest for a special treat.
+181,1025,135064,4,4,4,"Back to good BBQ, lighter fare, reasonable pricing and tell the public they are back to the old ways."
+182,1025,132825,2,2,2,Bland... Not a liking this place for a number of reasons and I don't want to waste time on bad reviewing.. I'll leave it at that...
+183,1025,132958,3,2,2,There is so much good food in Vegas that I feel cheated for wasting an eating opportunity by going to Rice and Company.
+184,1025,132846,4,4,4,The goat taco didn't skimp on the meat and wow what FLAVOR!
+185,1025,132847,4,3,3,"I really do recommend this place, you can go wrong with this donut place!"
+186,1026,132706,2,4,2,The waitress was friendly and happy to accomodate for vegan/veggie options.
+187,1026,132654,2,2,2,As a sushi lover avoid this place by all means.
+188,1027,135085,3,3,3,Good Service-check!
+189,1027,135062,3,3,3,The chicken wings contained the driest chicken meat I have ever eaten.
+190,1027,132951,3,3,3,"I always order from the vegetarian menu during dinner, which has a wide array of options to choose from."
+191,1027,135066,2,2,2,I'm not sure how long we stood there but it was long enough for me to begin to feel awkwardly out of place.
+192,1027,135052,3,3,3,Pricing is a bit of a concern at Mellow Mushroom.
+193,1027,135042,3,3,3,I will be back many times soon.
+194,1027,132937,3,3,3,We will not be coming back.
+195,1028,132732,3,3,3,"It's like a really sexy party in your mouth, where you're outrageously flirting with the hottest person at the party."
+196,1028,132613,4,4,4,The Greek dressing was very creamy and flavorful.
+197,1028,132630,4,4,4,The bus boy on the other hand was so rude.
+198,1029,132862,3,3,3,"Be sure to order dessert, even if you need to pack it to-go - the tiramisu and cannoli are both to die for."
+199,1029,135059,4,3,3,This is an Outstanding little restaurant with some of the Best Food I have ever tasted.
+200,1029,135047,3,3,3,definitely will come back here again.
+201,1029,132754,2,2,2,"I go to far too many places and I've never seen any restaurant that serves a 1 egg breakfast, especially for $4.00."
+202,1029,135085,3,3,3,the potatoes were great and so was the biscuit.
+203,1029,132825,3,3,2,Everything was fresh and delicious!
+204,1029,132834,2,3,2,Disappointing experience.
+205,1029,132937,3,3,3,"They have horrible attitudes towards customers, and talk down to each one when customers don't enjoy their food."
+206,1030,134996,2,2,2,My boyfriend tried the Mediterranean Chicken Salad and fell in love.
+207,1030,135016,2,2,2,very slow at seating even with reservation.
+208,1030,134986,4,4,4,Great food and awesome service!
+209,1030,135088,3,2,3,"He was extremely rude and really, there are so many other restaurants I would love to dine at during a weekend in Vegas."
+210,1030,135018,4,4,4,"Anyway, this FS restaurant has a wonderful breakfast/lunch."
+211,1030,132767,2,2,2,We won't be going back anytime soon!
+212,1030,135019,2,2,2,"The burger... I got the ""Gold Standard"" a $17 burger and was kind of disappointed."
+213,1032,132856,3,3,2,This was like the final blow!
+214,1032,135042,2,3,2,I left with a stomach ache and felt sick the rest of the day.
+215,1032,135079,4,4,2,The price is reasonable and the service is great.
+216,1032,135060,3,3,3,And the red curry had so much bamboo shoots and wasn't very tasty to me.
+217,1032,135038,3,3,2,I have never had such bland food which surprised me considering the article we read focused so much on their spices and flavor.
+218,1032,135058,4,3,2,I don't think we'll be going back anytime soon.
+219,1032,135032,2,2,2,I can take a little bad service but the food sucks.
+220,1032,135085,3,3,3,"I could barely stomach the meal, but didn't complain because it was a business lunch."
+221,1032,132834,3,3,2,"Took an hour to get our food only 4 tables in restaurant my food was Luke warm, Our sever was running around like he was totally overwhelmed."
+222,1033,135065,3,3,3,"Lobster Bisque, Bussell Sprouts, Risotto, Filet ALL needed salt and pepper..and of course there is none at the tables."
+223,1033,135030,4,3,3,Service is perfect and the family atmosphere is nice to see.
+224,1033,135046,4,3,3,"Similarly, the delivery man did not say a word of apology when our food was 45 minutes late."
+225,1033,135038,3,3,3,Service was slow and not attentive.
+226,1033,132951,4,3,2,I hope this place sticks around.
+227,1033,135075,4,3,2,My drink was never empty and he made some really great menu suggestions.
+228,1033,135028,4,3,3,High-quality chicken on the chicken Caesar salad.
+229,1033,135085,4,4,4,this was a different cut than the piece the other day but still wonderful and tender s well as well flavored.
+230,1033,135045,4,3,4,Once you get inside you'll be impressed with the place.
+231,1034,135086,3,3,3,"Same evening, him and I are both drastically sick."
+232,1034,135055,2,2,2,We had 7 at our table and the service was pretty fast.
+233,1034,135035,3,3,3,The only redeeming quality of the restaurant was that it was very inexpensive.
+234,1034,135049,2,2,2,This place is disgusting!
+235,1035,135000,4,4,4,Would not go back.
+236,1035,135018,3,4,3,"Give it a try, you will be happy you did."
+237,1035,132773,4,3,4,I love this place.
+238,1035,134996,4,3,4,Ordered an appetizer and took 40 minutes and then the pizza another 10 minutes.
+239,1035,134986,4,4,4,This place lacked style!!
+240,1035,132583,3,2,4,"Anyway, I do not think i will go back there."
+241,1036,135065,2,2,2,I believe that this place is a great stop for those with a huge belly and hankering for sushi.
+242,1036,135042,4,4,4,"The burger is good beef, cooked just right."
+243,1036,135045,4,4,4,I don't have to be an accountant to know I'm getting screwed!
+244,1036,135025,4,4,4,Great place to have a couple drinks and watch any and all sporting events as the walls are covered with TV's.
+245,1036,135079,4,4,4,Seafood was limited to boiled shrimp and crab legs but the crab legs definitely did not taste fresh.
+246,1036,135059,4,4,4,Fantastic food!
+247,1036,135064,4,4,3,"It was either too cold, not enough flavor or just bad."
+248,1036,135052,4,4,4,This place is great!!!!!!!!!!!!!!
+249,1036,132754,4,4,4,This was my first time and I can't wait until the next.
+250,1036,135085,4,4,4,Never had anything to complain about here.
+251,1036,132825,4,4,4,I had the chicken Pho and it tasted very bland.
+252,1036,132834,3,4,4,Only Pros : Large seating area/ Nice bar area/ Great simple drink menu/ The BEST brick oven pizza with homemade dough!
+253,1037,135071,3,2,2,"I have eaten here multiple times, and each time the food was delicious."
+254,1037,135082,2,2,2,Waitress was good though!
+255,1037,135070,2,2,2,"The burger had absolutely no flavor - the meat itself was totally bland, the burger was overcooked and there was no charcoal flavor."
+256,1037,132854,3,4,2,This place is amazing!
+257,1037,135054,4,3,3,I went to Bachi Burger on a friend's recommendation and was not disappointed.
+258,1037,132869,3,3,4,The food wasn't good.
+259,1037,135108,4,4,4,"I had strawberry tea, which was good."
+260,1037,132845,2,2,2,The food was terrible.
+261,1037,132847,3,3,3,I seriously cannot believe that the owner has so many unexperienced employees that all are running around like chickens with their heads cut off.
+262,1038,132854,3,4,4,The feel of the dining room was more college cooking course than high class dining and the service was slow at best.
+263,1038,132856,2,3,3,"As much as I'd like to go back, I can't get passed the atrocious service and will never return."
+264,1038,132862,4,4,4,Left very frustrated.
+265,1038,132858,2,4,3,"What SHOULD have been a hilarious, yummy Christmas Eve dinner to remember was the biggest fail of the entire trip for us."
+266,1038,132861,3,3,4,Do yourself a favor and stay away from this dish.
+267,1040,134999,3,3,3,I will continue to come here on ladies night andddd date night ... highly recommend this place to anyone who is in the area.
+268,1040,132773,3,3,3,"The deal included 5 tastings and 2 drinks, and Jeff went above and beyond what we expected."
+269,1040,135013,4,4,4,Everyone is treated equally special.
+270,1040,135019,3,4,3,The restaurant atmosphere was exquisite.
+271,1041,134983,4,4,4,I was so insulted.
+272,1041,134992,4,4,4,"The menu is always changing, food quality is going down & service is extremely slow."
+273,1041,135001,3,3,3,Do not waste your money here!
+274,1041,135021,4,4,4,We recently witnessed her poor quality of management towards other guests as well.
+275,1041,132768,4,4,3,"I do love sushi, but I found Kabuki to be over-priced, over-hip and under-services."
+276,1042,135021,3,4,2,This place receives stars for their APPETIZERS!!!
+277,1042,134996,4,4,4,Total brunch fail.
+278,1042,134986,4,4,4,It was a pale color instead of nice and char and has NO flavor.
+279,1042,134992,3,4,3,I wasn't really impressed with Strip Steak.
+280,1042,132768,4,4,3,"We got sitting fairly fast, but, ended up waiting 40 minutes just to place our order, another 30 minutes before the food arrived."
+281,1043,132732,3,3,3,But I definitely would not eat here again.
+282,1043,132609,3,4,3,Service was very prompt.
+283,1043,132608,3,3,3,The vanilla ice cream was creamy and smooth while the profiterole (choux) pastry was fresh enough.
+284,1043,132630,3,3,3,Worst food/service I've had in a while.
+285,1043,132613,3,3,3,"Phenomenal food, service and ambiance."
+286,1044,135088,4,4,4,"That said, our mouths and bellies were still quite pleased."
+287,1044,134986,4,4,4,The jalapeno bacon is soooo good.
+288,1044,134987,2,2,2,"The chains, which I'm no fan of, beat this place easily."
+289,1044,132583,3,4,3,The fried rice was dry as well.
+290,1044,132768,4,4,4,The service was poor and thats being nice.
+291,1045,135064,2,2,2,The real disappointment was our waiter.
+292,1045,135051,4,4,4,Gave up trying to eat any of the crust (teeth still sore).
+293,1045,135052,3,4,4,The staff are also very friendly and efficient.
+294,1045,135032,2,2,2,We won't be going back.
+295,1045,135085,4,4,4,The Heart Attack Grill in downtown Vegas is an absolutely flat-lined excuse for a restaurant.
+296,1045,135060,4,4,4,So don't go there if you are looking for good food...
+297,1045,135041,3,4,3,"Overall, I don't think that I would take my parents to this place again because they made most of the similar complaints that I silently felt too."
+298,1045,132856,3,4,4,"The shower area is outside so you can only rinse, not take a full shower, unless you don't mind being nude for everyone to see!"
+299,1045,132825,4,3,3,"Good food , good service ."
+300,1045,132834,3,3,3,"On the good side, the staff was genuinely pleasant and enthusiastic - a real treat."
+301,1046,135058,4,4,3,"The chicken I got was definitely reheated and was only ok, the wedges were cold and soggy."
+302,1046,135085,3,4,3,You won't be disappointed.
+303,1046,132861,3,4,4,"Frozen pucks of disgust, with some of the worst people behind the register."
+304,1046,135044,3,3,2,A great touch.
+305,1046,135026,3,2,4,Pretty awesome place.
+306,1046,132951,3,3,4,"I personally love the hummus, pita, baklava, falafels and Baba Ganoush (it's amazing what they do with eggplant!)."
+307,1046,135065,4,4,4,I can say that the desserts were yummy.
+308,1048,135048,2,3,2,I love that they put their food in nice plastic containers as opposed to cramming it in little paper takeout boxes.
+309,1048,135026,4,4,4,As always the evening was wonderful and the food delicious!
+310,1048,135034,4,4,3,Awesome service and food.
+311,1048,135065,4,4,2,"Very convenient, since we were staying at the MGM!"
+312,1048,132755,4,4,4,"We also ordered the spinach and avocado salad, the ingredients were sad and the dressing literally had zero taste."
+313,1048,135049,3,2,4,The tables outside are also dirty a lot of the time and the workers are not always friendly and helpful with the menu.
+314,1049,132862,2,2,2,It was not good.
+315,1049,135042,2,2,2,It was packed!!
+316,1049,135041,2,2,2,The grilled chicken was so tender and yellow from the saffron seasoning.
+317,1049,135051,2,2,2,Today is the second time I've been to their lunch buffet and it was pretty good.
+318,1049,135052,2,2,2,Sauce was tasteless.
+319,1049,135032,2,2,2,Special thanks to Dylan T. for the recommendation on what to order :) All yummy for my tummy.
+320,1049,135085,2,2,2,(The bathroom is just next door and very nice.)
+321,1049,132825,2,2,2,We've tried to like this place but after 10+ times I think we're done with them.
+322,1050,132732,2,3,3,"After one bite, I was hooked."
+323,1050,132560,2,4,2,I want to first say our server was great and we had perfect service.
+324,1050,132608,2,2,2,the staff is friendly and the joint is always clean.
+325,1050,132609,2,2,2,"Lordy, the Khao Soi is a dish that is not to be missed for curry lovers!"
+326,1051,134996,3,3,4,My gyro was basically lettuce only.
+327,1051,135088,3,3,3,Everything was good and tasty!
+328,1051,132768,3,4,3,Hard to judge whether these sides were good because we were grossed out by the melted styrofoam and didn't want to eat it for fear of getting sick.
+329,1052,132866,4,4,3,Very very fun chef.
+330,1052,132870,3,3,3,A great way to finish a great.
+331,1052,132869,4,4,3,"On three different occasions I asked for well done or medium well, and all three times I got the bloodiest piece of meat on my plate."
+332,1053,135032,4,4,3,CONCLUSION: Very filling meals.
+333,1053,135076,3,3,3,This place deserves no stars.
+334,1053,135042,4,3,4,The buffet is small and all the food they offered was BLAND.
+335,1053,135053,4,4,2,"Perhaps I caught them on an off night judging by the other reviews, but I'm not inspired to go back."
+336,1053,135025,4,3,4,The pancake was also really good and pretty large at that.
+337,1053,135063,4,3,4,I'm not impressed with the concept or the food.
+338,1053,135060,4,4,3,"too bad cause I know it's family owned, I really wanted to like this place."
+339,1053,135038,4,3,4,Bland and flavorless is a good way of describing the barely tepid meat.
+340,1053,135081,4,4,3,The nachos are a MUST HAVE!
+341,1053,135047,4,4,4,Now the pizza itself was good the peanut sauce was very tasty.
+342,1053,135062,4,3,3,Soggy and not good.
+343,1053,132754,3,4,3,The pan cakes everyone are raving about taste like a sugary disaster tailored to the palate of a six year old.
+344,1053,132825,3,4,2,"Main thing I didn't enjoy is that the crowd is of older crowd, around mid 30s and up."
+345,1054,132856,4,4,4,2 times - Very Bad Customer Service !
+346,1054,135045,4,3,4,"I don't know what the big deal is about this place, but I won't be back ""ya'all""."
+347,1054,135025,4,4,4,"Never been to Hard Rock Casino before, WILL NEVER EVER STEP FORWARD IN IT AGAIN!"
+348,1054,135041,4,4,4,They really want to make your experience a good one.
+349,1054,135060,4,4,4,I can assure you that you won't be disappointed.
+350,1054,135038,4,3,3,"What did bother me, was the slow service."
+351,1054,135051,4,4,2,The menu had so much good stuff on it i could not decide!
+352,1054,135052,4,4,3,I don't recommend unless your car breaks down in front of it and you are starving.
+353,1054,135039,4,4,3,My boyfriend and i sat at the bar and had a completely delightful experience.
+354,1054,135062,4,4,2,"This is was due to the fact that it took 20 minutes to be acknowledged, then another 35 minutes to get our food...and they kept forgetting things."
+355,1054,135032,3,3,3,Owner's are really great people.!
+356,1055,135106,4,4,4,Always a great time at Dos Gringos!
+357,1055,135025,4,4,4,I'm super pissd.
+358,1055,135051,3,4,4,She ordered a toasted English muffin that came out untoasted.
+359,1055,135047,4,4,4,They were excellent.
+360,1055,135048,4,4,4,"Overall, I like there food and the service."
+361,1055,135075,4,4,4,"If the food isn't bad enough for you, then enjoy dealing with the world's worst/annoying drunk people."
+362,1055,132754,4,4,4,"Your servers suck, wait, correction, our server Heimer sucked."
+363,1055,135028,4,4,4,"The service was not up to par, either."
+364,1055,132825,4,4,4,We loved the biscuits!!!
+365,1056,135076,4,4,4,Once your food arrives it's meh.
+366,1056,135066,4,4,4,Nothing special.
+367,1056,135081,4,4,4,"The service was a little slow , considering that were served by 3 people servers so the food was coming in a slow pace."
+368,1056,135051,4,4,4,"Third, the cheese on my friend's burger was cold."
+369,1056,135052,4,4,4,I found this place by accident and I could not be happier.
+370,1056,135027,4,4,4,The chefs were friendly and did a good job.
+371,1056,135062,4,4,4,I like Steiners because it's dark and it feels like a bar.
+372,1056,135085,4,4,4,It'll be a regular stop on my trips to Phoenix!
+373,1056,135050,2,2,2,"However, there was so much garlic in the fondue, it was barely edible."
+374,1056,132825,4,4,4,I never come again.
+375,1057,135075,2,3,3,"I'd rather eat airline food, seriously."
+376,1057,135064,3,3,2,The roast beef sandwich tasted really good!
+377,1057,135080,3,3,2,The RI style calamari was a joke.
+378,1057,135046,3,2,2,this place is good.
+379,1057,135030,3,2,3,This is one of the best bars with food in Vegas.
+380,1057,132862,3,2,2,"The chips and salsa were really good, the salsa was very fresh."
+381,1057,135070,3,3,3,"Everyone is very attentive, providing excellent customer service."
+382,1057,135043,3,3,3,The cocktails are all handmade and delicious.
+383,1057,132825,3,3,2,Why are these sad little vegetables so overcooked?
+384,1057,132954,3,2,2,The Jamaican mojitos are delicious.
+385,1057,132834,3,2,3,"It was extremely ""crumby"" and pretty tasteless."
+386,1058,135076,4,4,4,"This place is not quality sushi, it is not a quality restaurant."
+387,1058,135053,4,3,3,I had a seriously solid breakfast here.
+388,1058,135066,3,3,3,Service was fantastic.
+389,1058,135055,4,4,4,It was just not a fun experience.
+390,1058,132885,3,3,3,The only thing I did like was the prime rib and dessert section.
+391,1058,135062,4,4,4,Favorite place in town for shawarrrrrrma!!!!!!
+392,1058,135058,4,4,2,For that price I can think of a few place I would have much rather gone.
+393,1058,135050,3,2,2,-Drinks took close to 30 minutes to come out at one point.
+394,1058,135043,3,4,4,So they performed.
+395,1059,135085,4,4,4,The Han Nan Chicken was also very tasty.
+396,1059,135028,3,3,3,"In the summer, you can dine in a charming outdoor patio - so very delightful."
+397,1059,132754,4,4,4,Both of the egg rolls were fantastic.
+398,1059,135075,4,4,3,So good I am going to have to review this place twice - once hereas a tribute to the place and once as a tribute to an event held here last night.
+399,1059,135044,4,3,3,The steaks are all well trimmed and also perfectly cooked.
+400,1059,135064,3,3,2,Both great!
+401,1059,132862,2,2,2,I hate those things as much as cheap quality black olives.
+402,1059,135030,4,4,4,"Both of them were truly unbelievably good, and I am so glad we went back."
+403,1059,132825,4,3,3,"You get incredibly fresh fish, prepared with care."
+404,1059,132955,4,3,4,Very bad Experience!
+405,1061,135086,3,3,4,Food was average at best.
+406,1061,135041,4,4,4,Honeslty it didn't taste THAT fresh.)
+407,1061,132754,4,4,4,My ribeye steak was cooked perfectly and had great mesquite flavor.
+408,1061,135058,3,3,3,"The food was barely lukewarm, so it must have been sitting waiting for the server to bring it out to us."
+409,1061,135075,4,4,4,This place is awesome if you want something light and healthy during the summer.
+410,1061,135046,3,4,3,first time there and might just be the last.
+411,1061,135034,4,4,4,What a mistake that was!
+412,1061,135026,4,4,4,A good time!
+413,1061,135048,4,4,4,If you haven't gone here GO NOW!
+414,1061,135080,4,4,4,This greedy corporation will NEVER see another dime from me!
+415,1061,132825,3,4,3,The block was amazing.
+416,1061,132955,4,4,4,"In an interesting part of town, this place is amazing."
+417,1061,132954,4,3,4,It's NOT hard to make a decent hamburger.
+418,1061,132958,4,4,4,I would not recommend this place.
+419,1061,132834,3,4,3,"OMG, the food was delicioso!"
+420,1062,135045,2,2,2,"I hate to disagree with my fellow Yelpers, but my husband and I were so disappointed with this place."
+421,1062,135053,2,2,2,I won't be back.
+422,1062,135038,2,2,2,Hopefully this bodes for them going out of business and someone who can cook can come in.
+423,1062,135052,2,2,2,I as well would've given godfathers zero stars if possible.
+424,1062,135062,2,2,2,Great food.
+425,1062,135085,2,2,2,"This place is pretty good, nice little vibe in the restaurant."
+426,1062,132825,2,2,2,Terrible management.
+427,1062,132834,2,2,2,Not good for the money.
+428,1063,132609,3,2,3,"If you look for authentic Thai food, go else where."
+429,1063,132660,4,4,4,Food is way overpriced and portions are fucking small.
+430,1063,132667,3,4,3,I miss it and wish they had one in Philadelphia!
+431,1064,135069,2,2,3,"The food, amazing."
+432,1064,135042,3,4,3,"Definitely worth venturing off the strip for the pork belly, will return next time I'm in Vegas."
+433,1064,135052,4,2,4,AVOID THIS ESTABLISHMENT!
+434,1064,135057,3,3,4,"All in all, I can assure you I'll be back."
+435,1064,135060,3,2,3,"If that bug never showed up I would have given a 4 for sure, but on the other side of the wall where this bug was climbing was the kitchen."
+436,1065,132706,4,3,4,They were golden-crispy and delicious.
+437,1065,132654,3,3,3,Best tacos in town by far!!
+438,1066,134999,3,3,3,There is nothing authentic about this place.
+439,1066,132767,3,4,3,"For service, I give them no stars."
+440,1066,135011,3,4,4,The Macarons here are insanely good.
+441,1066,135013,3,4,4,"The descriptions said ""yum yum sauce"" and another said ""eel sauce"", yet another said ""spicy mayo""...well NONE of the rolls had sauces on them."
+442,1066,135019,4,3,2,The atmosphere here is fun.
+443,1067,132732,3,4,4,"The service was terrible, food was mediocre."
+444,1067,132630,3,2,3,The ambiance was incredible.
+445,1067,132560,3,2,2,"This place is not worth your time, let alone Vegas."
+446,1068,132732,2,2,2,The seasonal fruit was fresh white peach puree.
+447,1068,132660,2,2,2,These are the nicest restaurant owners I've ever come across.
+448,1068,132630,3,3,3,"On the ground, right next to our table was a large, smeared, been-stepped-in-and-tracked-everywhere pile of green bird poop."
+449,1069,132858,2,2,2,The waiter wasn't helpful or friendly and rarely checked on us.
+450,1069,135108,2,2,2,The ambiance isn't much better.
+451,1069,135069,2,2,2,Would come back again if I had a sushi craving while in Vegas.
+452,1069,135070,2,2,2,Not tasty and the texture was just nasty.
+453,1069,135082,2,2,2,If there were zero stars I would give it zero stars.
+454,1069,132845,2,2,2,And then tragedy struck.
+455,1069,132846,2,2,2,"Lastly, the mozzarella sticks, they were the best thing we ordered."
+456,1069,132847,2,4,2,Great place to relax and have an awesome burger and beer.
+457,1070,132609,3,3,3,This is a GREAT place to eat!
+458,1070,132608,4,4,3,I will not be eating there again.
+459,1070,132613,3,3,2,I really enjoyed Crema Café before they expanded. I even told friends they had the BEST breakfast.
+460,1071,135030,4,4,4,It is worth the drive.
+461,1071,135063,4,3,4,"By this point, my friends and I had basically figured out this place was a joke and didn't mind making it publicly and loudly known."
+462,1071,135060,3,4,4,Don't bother coming here.
+463,1071,135052,4,4,4,We watched our waiter pay a lot more attention to other tables and ignore us.
+464,1071,135039,4,4,4,The poor batter to meat ratio made the chicken tenders very unsatisfying.
+465,1071,135032,4,4,4,"Great food and service, huge portions and they give a military discount."
+466,1071,135028,4,4,4,"Also were served hot bread and butter, and home made potato chips with bacon bits on top....very original and very good."
+467,1071,135025,4,4,4,Wonderful lil tapas and the ambience made me feel all warm and fuzzy inside.
+468,1071,135042,4,4,4,The potatoes were like rubber and you could tell they had been made up ahead of time being kept under a warmer.
+469,1071,132856,4,4,4,The atmosphere was great with a lovely duo of violinists playing songs we requested.
+470,1071,132862,4,4,4,We waited for forty five minutes in vain.
+471,1071,132825,4,4,4,"Sorry, I will not be getting food from here anytime soon :("
+472,1071,132834,3,3,3,Generous portions and great taste.
+473,1072,132773,4,3,4,The restaurant is very clean and has a family restaurant feel to it.
+474,1072,135088,2,3,2,"If it were possible to give them zero stars, they'd have it."
+475,1072,135016,3,4,4,"The food is about on par with Denny's, which is to say, not good at all."
+476,1072,135000,2,2,2,DELICIOUS!!
+477,1073,135065,2,2,2,I dressed up to be treated so rudely!
+478,1073,132862,2,2,2,"This place is like Chipotle, but BETTER."
+479,1073,135080,2,2,2,Food was really boring.
+480,1073,135060,2,2,2,They also have the best cheese crisp in town.
+481,1073,135064,2,2,2,"It took over 30 min to get their milkshake, which was nothing more than chocolate milk."
+482,1073,135052,2,2,2,"Worst service to boot, but that is the least of their worries."
+483,1073,132951,2,2,2,Nice ambiance.
+484,1073,135062,2,2,2,"Went in for happy hour, great list of wines."
+485,1073,132834,2,2,2,"After 20 minutes wait, I got a table."
+486,1073,132954,2,2,2,The seafood was fresh and generous in portion.
+487,1074,134987,4,4,4,There is nothing privileged about working/eating there.
+488,1074,135011,4,3,4,Maybe if they weren't cold they would have been somewhat edible.
+489,1075,135076,4,4,2,This place should honestly be blown up.
+490,1075,135057,4,3,3,"I guess I should have known that this place would suck, because it is inside of the Excalibur, but I didn't use my common sense."
+491,1075,135041,3,3,2,"Also there are combos like a burger, fries, and beer for 23 which is a decent deal."
+492,1075,135066,4,3,4,And it was way to expensive.
+493,1075,135081,3,4,3,It was awesome.
+494,1075,135051,3,3,3,"Love the margaritas, too!"
+495,1075,135039,4,4,2,"Great food for the price, which is very high quality and house made."
+496,1075,135062,3,2,3,"Perfect for someone (me) who only likes beer ice cold, or in this case, even colder."
+497,1075,135032,3,3,3,will definitely be back!
+498,1075,135050,4,4,4,Four stars for the food & the guy in the blue shirt for his great vibe & still letting us in to eat !
+499,1075,132834,3,4,3,I ordered Albondigas soup - which was just warm - and tasted like tomato soup with frozen meatballs.
+500,1076,135039,4,4,3,It was a huge awkward 1.5lb piece of cow that was 3/4ths gristle and fat.
+501,1076,135073,4,3,3,From what my dinner companions told me...everything was very fresh with nice texture and taste.
+502,1076,135027,2,3,3,I got home to see the driest damn wings ever!
+503,1076,135038,3,4,4,This is some seriously good pizza and I'm an expert/connisseur on the topic.
+504,1076,135042,4,4,4,I waited and waited.
+505,1077,135060,3,4,4,Would not recommend to others.
+506,1077,135038,4,4,3,I can't wait to go back.
+507,1077,135027,2,3,3,I *heart* this place.
+508,1077,135085,4,4,4,"Of all the dishes, the salmon was the best, but all were great."
+509,1077,132825,4,4,4,This is my new fav Vegas buffet spot.
+510,1078,132885,3,3,3,You cant go wrong with any of the food here.
+511,1078,135052,4,4,4,This is a good joint.
+512,1078,135081,3,3,3,The lighting is just dark enough to set the mood.
+513,1078,135060,4,4,4,The service was outshining & I definitely recommend the Halibut.
+514,1078,135041,4,3,4,The selection was probably the worst I've seen in Vegas.....there was none.
+515,1078,135106,4,4,4,I was seated immediately.
+516,1078,132834,2,4,3,No one at the table thought the food was above average or worth the wait that we had for it.
+517,1079,132766,3,4,3,An absolute must visit!
+518,1079,134986,4,4,4,"I ate there twice on my last visit, and especially enjoyed the salmon salad."
+519,1079,132768,4,4,4,If you stay in Vegas you must get breakfast here at least once.
+520,1080,132660,4,4,4,"Hot dishes are not hot, cold dishes are close to room temp.I watched staff prepare food with BARE HANDS, no gloves.Everything is deep fried in oil."
+521,1080,132608,4,4,4,"I got to enjoy the seafood salad, with a fabulous vinegrette."
+522,1081,135052,2,3,3,What a great double cheeseburger!
+523,1081,135027,2,3,3,I'm not really sure how Joey's was voted best hot dog in the Valley by readers of Phoenix Magazine.
+524,1081,135039,2,2,2,Food was delicious!
+525,1081,135032,2,3,3,Go To Place for Gyros.
+526,1081,135028,3,4,4,All of the tapas dishes were delicious!
+527,1081,135085,3,4,3,"The meat was pretty dry, I had the sliced brisket and pulled pork."
+528,1081,135030,3,3,3,"Good service, very clean, and inexpensive, to boot!"
+529,1081,135076,3,4,4,"The salad had just the right amount of sauce to not over power the scallop, which was perfectly cooked."
+530,1081,135069,3,2,3,Omelets are to die for!
+531,1081,135043,2,2,3,I think this restaurant suffers from not trying hard enough.
+532,1081,132825,3,2,3,So we went to Tigerlilly and had a fantastic afternoon!
+533,1082,132732,2,2,2,I just don't know how this place managed to served the blandest food I have ever eaten when they are preparing Indian cuisine.
+534,1082,132613,2,2,2,The plantains were the worst I've ever tasted.
+535,1082,132609,2,2,2,"The sides are delish - mixed mushrooms, yukon gold puree, white corn - beateous."
+536,1082,132608,2,2,2,"Our server was fantastic and when he found out the wife loves roasted garlic and bone marrow, he added extra to our meal and another marrow to go!"
+537,1082,132630,3,3,3,I work in the hospitality industry in Paradise Valley and have refrained from recommending Cibo any longer.
+538,1082,132560,2,2,2,The worst was the salmon sashimi.
+539,1083,135046,4,4,3,Check it out.
+540,1083,135034,4,4,4,Based on the sub-par service I received and no effort to show their gratitude for my business I won't be going back.
+541,1083,135074,4,4,4,The warm beer didn't help.
+542,1083,135044,3,4,4,Service is friendly and inviting.
+543,1083,132755,4,4,4,"Delicious NYC bagels, good selections of cream cheese, real Lox with capers even."
+544,1083,135049,2,2,2,Horrible - don't waste your time and money.
+545,1083,135072,3,4,4,Just don't know why they were so slow.
+546,1084,132862,4,4,4,Will be back again!
+547,1084,135030,4,4,4,"i felt insulted and disrespected, how could you talk and judge another human being like that?"
+548,1084,135045,4,4,4,"The service was great, even the manager came and helped with our table."
+549,1084,135026,4,4,4,Don't waste your time here.
+550,1084,135035,4,4,4,We were sat right on time and our server from the get go was FANTASTIC!
+551,1084,132861,4,4,4,"The dining space is tiny, but elegantly decorated and comfortable."
+552,1084,135058,3,2,4,Over rated.
+553,1084,135085,4,4,4,"I have watched their prices inflate, portions get smaller and management attitudes grow rapidly!"
+554,1084,135072,4,4,4,This is a really fantastic Thai restaurant which is definitely worth a visit.
+555,1085,135076,4,4,4,My boyfriend and I came here for the first time on a recent trip to Vegas and could not have been more pleased with the quality of food and service.
+556,1085,135042,2,2,2,Terrible service!
+557,1085,135059,4,4,3,I've never been treated so bad.
+558,1085,135055,4,4,4,The scallop dish is quite appalling for value as well.
+559,1085,135081,4,4,4,Extremely Tasty!
+560,1085,132885,2,2,2,Their monster chicken fried steak and eggs is my all time favorite.
+561,1085,135043,4,4,4,did not like at all.
+562,1085,135050,4,4,4,"Despite how hard I rate businesses, its actually rare for me to give a 1 star."
+563,1085,132825,4,4,4,"However, my recent experience at this particular location was not so good."
+564,1086,135085,4,3,3,They have a really nice atmosphere.
+565,1086,132951,3,3,3,Great food and great service in a clean and friendly setting.
+566,1086,135060,3,3,3,The sergeant pepper beef sandwich with auju sauce is an excellent sandwich as well.
+567,1086,135041,4,4,4,"The Wife hated her meal (coconut shrimp), and our friends really did not enjoy their meals, either."
+568,1086,135045,4,4,4,"Every time I eat here, I see caring teamwork to a professional degree."
+569,1086,135063,3,3,3,"Love this place, hits the spot when I want something healthy but not lacking in quantity or flavor."
+570,1086,132937,4,2,3,Went for lunch - service was slow.
+571,1087,132732,4,4,3,I could care less... The interior is just beautiful.
+572,1087,132660,3,3,2,Definitely a turn off for me & i doubt I'll be back unless someone else is buying.
+573,1087,132560,3,4,3,One of the few places in Phoenix that I would definately go back to again .
+574,1087,132667,4,4,3,Talk about great customer service of course we will be back.
+575,1088,135082,4,4,4,We could not believe how dirty the oysters were!
+576,1088,135070,4,4,3,"The staff is super nice and very quick even with the crazy crowds of the downtown juries, lawyers, and court staff."
+577,1088,135069,3,4,4,You can't beat that.
+578,1088,135054,4,4,4,It was absolutely amazing.
+579,1088,135057,3,4,4,Very Very Disappointed ordered the $35 Big Bay Plater.
+580,1088,135041,4,4,4,We ordered some old classics and some new dishes after going there a few times and were sorely disappointed with everything.
+581,1088,135081,3,4,4,I've had better atmosphere.
+582,1088,135108,4,4,4,Fantastic service here.
+583,1088,135051,4,3,4,"The first time I ever came here I had an amazing experience, I still tell people how awesome the duck was."
+584,1088,135071,2,2,2,I guess maybe we went on an off night but it was disgraceful.
+585,1088,135032,4,4,4,"Thus far, have only visited twice and the food was absolutely delicious each time."
+586,1089,135064,3,3,3,I love their fries and their beans.
+587,1089,135026,3,3,3,Great time - family dinner on a Sunday night.
+588,1089,132951,3,3,3,Service was fine and the waitress was friendly.
+589,1089,135058,3,3,3,And service was super friendly.
+590,1089,132754,3,3,3,"Level 5 spicy was perfect, where spice didn't over-whelm the soup."
+591,1089,135028,3,3,3,Great service and food.
+592,1089,135085,3,3,3,This place was such a nice surprise!
+593,1089,135072,3,3,3,Good prices.
+594,1089,135038,2,2,2,"If you love authentic Mexican food and want a whole bunch of interesting, yet delicious meats to choose from, you need to try this place."
+595,1089,135079,2,2,2,I will come back here every time I'm in Vegas.
+596,1089,132834,3,3,3,I love the fact that everything on their menu is worth it.
+597,1090,132862,4,4,4,"The food was very good and I enjoyed every mouthful, an enjoyable relaxed venue for couples small family groups etc."
+598,1090,135025,4,4,4,Now I am getting angry and I want my damn pho.
+599,1090,135051,3,4,3,"I tried the Cape Cod ravoli, chicken, with cranberry...mmmm!"
+600,1090,135052,4,4,4,Thoroughly disappointed!
+601,1090,135062,4,4,4,"Also, I feel like the chips are bought, not made in house."
+602,1090,135085,4,4,4,"Probably never coming back, and wouldn't recommend it."
+603,1090,132954,4,4,4,Kind of hard to mess up a steak but they did.
+604,1091,135086,3,3,3,I am far from a sushi connoisseur but I can definitely tell the difference between good food and bad food and this was certainly bad food.
+605,1091,135080,2,3,3,This one is simply a disappointment.
+606,1091,135035,3,3,3,But now I was completely grossed out.
+607,1091,132861,3,3,3,This place is horrible and way overpriced.
+608,1091,135075,4,4,4,"Needless to say, I won't be going back anytime soon."
+609,1091,132825,2,3,3,This was my first and only Vegas buffet and it did not disappoint.
+610,1092,135025,4,3,3,WILL NEVER EVER GO BACK AND HAVE TOLD MANY PEOPLE WHAT HAD HAPPENED.
+611,1092,135046,2,2,2,At least think to refill my water before I struggle to wave you over for 10 minutes.
+612,1092,135071,3,2,2,He came running after us when he realized my husband had left his sunglasses on the table.
+613,1092,135085,2,2,2,Those burgers were amazing.
+614,1093,134999,4,4,4,Some may say this buffet is pricey but I think you get what you pay for and this place you are getting quite a lot!
+615,1093,135001,4,4,4,The food was outstanding and the prices were very reasonable.
+616,1093,134996,4,4,4,5 stars for the brick oven bread app!
+617,1093,135019,4,4,4,"When I opened the sandwich, I was impressed, but not in a good way."
+618,1093,132767,4,4,4,"They have a plethora of salads and sandwiches, and everything I've tried gets my seal of approval."
+619,1093,135013,4,4,3,My wife had the Lobster Bisque soup which was lukewarm.
+620,1093,135011,3,3,2,"I know this is not like the other restaurants at all, something is very off here!"
+621,1094,135069,2,3,2,"I don't have very many words to say about this place, but it does everything pretty well."
+622,1094,135054,2,2,2,I also decided not to send it back because our waitress looked like she was on the verge of having a heart attack.
+623,1094,135057,2,3,2,"I love the owner/chef, his one authentic Japanese cool dude!"
+624,1094,135108,2,3,3,The kids play area is NASTY!
+625,1094,135071,2,3,2,Just had lunch here and had a great experience.
+626,1094,135070,2,3,2,"As for the service: I'm a fan, because it's quick and you're being served by some nice folks."
+627,1094,135082,2,2,2,The only downside is the service.
+628,1095,135086,3,4,3,Avoid at all cost!
+629,1095,135034,4,4,4,"REAL sushi lovers, let's be honest - Yama is not that good."
+630,1095,135055,4,4,4,The vegetables are so fresh and the sauce feels like authentic Thai.
+631,1095,135064,3,3,3,Will go back next trip out.
+632,1095,135035,4,4,4,The service here is fair at best.
+633,1095,132861,3,3,3,"He also came back to check on us regularly, excellent service."
+634,1095,135058,3,4,4,"And the drinks are WEAK, people!"
+635,1095,135072,4,4,4,Service was exceptional and food was a good as all the reviews.
+636,1096,135064,3,3,2,What a mistake.
+637,1096,135086,3,2,4,After all the rave reviews I couldn't wait to eat here......what a disappointment!
+638,1096,135025,4,4,4,The management is rude.
+639,1096,135026,4,4,4,But the service was beyond bad.
+640,1096,135075,3,4,3,They had a toro tartare with a cavier that was extraordinary and I liked the thinly sliced wagyu with white truffle.
+641,1096,135072,3,4,3,I was mortified.
+642,1096,135055,4,4,4,"Prices are very reasonable, flavors are spot on, the sauce is home made, and the slaw is not drenched in mayo."
+643,1096,132955,4,4,4,"The staff are now not as friendly, the wait times for being served are horrible, no one even says hi for the first 10 minutes."
+644,1096,132958,3,4,4,I love this place.
+645,1097,135086,4,2,3,"Plus, it's only 8 bucks."
+646,1097,135053,4,4,4,It wasn't busy at all and now we know why.
+647,1097,135079,4,3,2,Service is quick and friendly.
+648,1097,135034,4,4,3,"We had fantastic service, and were pleased by the atmosphere."
+649,1097,135026,3,2,3,"I had heard good things about this place, but it exceeding every hope I could have dreamed of."
+650,1097,132861,4,4,3,"Ordered a double cheeseburger & got a single patty that was falling apart (picture uploaded) Yeah, still sucks."
+651,1097,135049,4,3,3,very tough and very short on flavor!
+652,1097,135058,4,3,3,"I had high hopes for this place since the burgers are cooked over a charcoal grill, but unfortunately the taste fell flat, way flat."
+653,1097,132955,4,4,3,"Unfortunately, it only set us up for disapppointment with our entrees."
+654,1097,132954,3,3,2,Eclectic selection.
+655,1097,132958,4,3,3,"Host staff were, for lack of a better word, BITCHES!"
+656,1098,132885,3,3,2,this is the worst sushi i have ever eat besides Costco's.
+657,1098,135032,4,3,3,The cow tongue and cheek tacos are amazing.
+658,1098,135085,3,4,3,"We thought you'd have to venture further away to get good sushi, but this place really hit the spot that night."
+659,1098,135038,3,3,3,"The chips that came out were dripping with grease, and mostly not edible."
+660,1098,135046,3,4,3,The server was very negligent of our needs and made us feel very unwelcome... I would not suggest this place!
+661,1098,132856,3,4,3,The folks at Otto always make us feel so welcome and special.
+662,1098,132862,3,4,4,It's a great place and I highly recommend it.
+663,1098,135079,4,3,3,The waitress and manager are so friendly.
+664,1098,135060,4,3,4,Food was so gooodd.
+665,1098,132861,4,4,3,Boy was that sucker dry!!.
+666,1098,132825,3,3,3,"not even a ""hello, we will be right with you."""
+667,1099,135076,3,3,2,Our server was super nice and checked on us many times.
+668,1099,132856,3,3,2,"Stopped by this place while in Madison for the Ironman, very friendly, kind staff."
+669,1099,135042,3,3,3,The flair bartenders are absolutely amazing!
+670,1099,135045,3,3,3,The food was terrible.
+671,1099,135066,3,3,3,Service was good and the company was better!
+672,1099,135060,4,4,4,The fries were great too.
+673,1099,135038,2,3,3,"The building itself seems pretty neat, the bathroom is pretty trippy, but I wouldn't eat here again."
+674,1099,132885,2,2,2,"As for the ""mains,"" also uninspired."
+675,1099,135043,4,4,4,"For sushi on the Strip, this is the place to go."
+676,1099,132834,4,4,4,Things that went wrong: - They burned the saganaki.
+677,1100,135000,4,3,3,Nice blanket of moz over top but i feel like this was done to cover up the subpar food.
+678,1100,135021,4,3,2,"Insults, profound deuchebaggery, and had to go outside for a smoke break while serving just to solidify it."
+679,1100,134996,4,3,3,"As for the service, I thought it was good."
+680,1100,135001,4,4,4,This wonderful experience made this place a must-stop whenever we are in town again.
+681,1100,132768,4,4,4,We literally sat there for 20 minutes with no one asking to take our order.
+682,1101,135106,2,2,2,Won't ever go here again.
+683,1101,132856,3,2,3,I had the mac salad and it was pretty bland so I will not be getting that again.
+684,1101,135041,2,2,2,"My brother in law who works at the mall ate here same day, and guess what he was sick all night too."
+685,1101,135038,4,4,3,"Good value, great food, great service."
+686,1101,135051,4,2,4,Must have been an off night at this place.
+687,1101,135052,4,3,3,"It was so bad, I had lost the heart to finish it."
+688,1101,135039,3,3,3,The croutons also taste homemade which is an extra plus.
+689,1101,135027,4,3,3,Never going back.
+690,1101,135032,4,4,3,Damn good steak.
+691,1101,135073,3,3,3,Some highlights : Great quality nigiri here!
+692,1102,132870,4,4,2,Will not be back!
+693,1102,132854,4,4,4,So in a nutshell: 1) The restaraunt smells like a combination of a dirty fish market and a sewer.
+694,1102,132858,4,4,2,"It's close to my house, it's low-key, non-fancy, affordable prices, good food."
+695,1102,132846,4,4,4,Their daily specials are always a hit with my group.
+696,1102,132847,4,4,2,"A greasy, unhealthy meal."
+697,1103,132732,2,2,4,"This was my first crawfish experience, and it was delicious!"
+698,1103,132613,4,4,4,"On the up side, their cafe serves really good food."
+699,1103,132630,3,4,2,"I also had to taste my Mom's multi-grain pumpkin pancakes with pecan butter and they were amazing, fluffy, and delicious!"
+700,1103,132667,3,4,4,If you are reading this please don't go there.
+701,1104,135085,4,4,3,Awful service.
+702,1104,135033,3,3,4,Del Taco is pretty nasty and should be avoided if possible.
+703,1104,135025,4,3,3,Last night was my second time dining here and I was so happy I decided to go back!
+704,1104,135030,4,3,3,Today was my first taste of a Buldogis Gourmet Hot Dog and I have to tell you it was more than I ever thought possible.
+705,1104,135041,3,4,3,Good beer & drink selection and good food selection.
+706,1104,135052,3,3,3,I just wanted to leave.
+707,1104,135047,3,4,3,I really enjoyed eating here.
+708,1104,135039,2,2,3,Def coming back to bowl next time
+709,1104,135062,3,3,4,"The only good thing was our waiter, he was very helpful and kept the bloddy mary's coming."
+710,1104,135032,4,3,3,walked in and the place smelled like an old grease trap and only 2 others there eating.
+711,1104,132825,3,4,3,My salad had a bland vinegrette on the baby greens and hearts of Palm.
+712,1104,132834,3,4,3,The bartender was also nice.
+713,1105,135039,2,2,2,"Loved it...friendly servers, great food, wonderful and imaginative menu."
+714,1105,135052,2,2,2,We definately enjoyed ourselves.
+715,1105,135057,2,2,2,A fantastic neighborhood gem !!!
+716,1105,135033,2,2,2,We loved the place.
+717,1105,135054,2,2,2,Interesting decor.
+718,1105,135040,2,2,2,"And considering the two of us left there very full and happy for about $20, you just can't go wrong."
+719,1105,135069,2,2,2,Bacon is hella salty.
+720,1106,135039,4,3,3,the spaghetti is nothing special whatsoever.
+721,1106,135062,4,4,3,"The decor is nice, and the piano music soundtrack is pleasant."
+722,1106,132754,4,4,3,I probably would not go here again.
+723,1106,135032,2,2,2,Dessert: Panna Cotta was amazing.
+724,1106,135028,4,3,2,"The chicken dishes are OK, the beef is like shoe leather."
+725,1106,135085,4,4,4,The desserts were a bit strange.
+726,1106,135047,2,2,2,The cashew cream sauce was bland and the vegetables were undercooked.
+727,1106,135106,2,2,2,My friend did not like his Bloody Mary.
+728,1106,132856,2,3,2,"All in all an excellent restaurant highlighted by great service, a unique menu, and a beautiful setting."
+729,1106,135052,2,2,2,"They have a good selection of food including a massive meatloaf sandwich, a crispy chicken wrap, a delish tuna melt and some tasty burgers."
+730,1106,132862,4,4,4,Not a single employee came out to see if we were OK or even needed a water refill once they finally served us our food.
+731,1106,135042,4,2,2,Google mediocre and I imagine Smashburger will pop up.
+732,1106,135030,4,4,3,"the food is not tasty at all, not to say its ""real traditional Hunan style""."
+733,1106,135079,4,4,4,"I was proven dead wrong by this sushi bar, not only because the quality is great, but the service is fast and the food, impeccable."
+734,1106,135041,3,3,3,"Hawaiian Breeze, Mango Magic, and Pineapple Delight are the smoothies that I've tried so far and they're all good."
+735,1106,135066,4,3,4,dont go here.
+736,1106,135064,4,4,4,And the chef was generous with his time (even came around twice so we can take pictures with him).
+737,1106,132834,4,3,3,"Very good, though!"
+738,1107,132660,4,4,3,The waitresses are very friendly.
+739,1108,135028,3,3,3,Now this dish was quite flavourful.
+740,1108,135086,3,3,2,So absolutley fantastic.
+741,1108,135046,3,4,3,Very friendly staff.
+742,1108,135074,4,4,3,Reasonably priced also!
+743,1108,135058,3,3,3,But then they came back cold.
+744,1108,135075,4,4,4,I don't know what kind it is but they have the best iced tea.
+745,1108,135032,4,3,4,"The sangria was about half of a glass wine full and was $12, ridiculous."
+746,1108,135085,3,4,3,"Cute, quaint, simple, honest."
+747,1109,132856,3,3,3,Worst martini ever!
+748,1109,135042,4,4,4,I will never go back to this place and will never ever recommended this place to anyone!
+749,1109,135063,4,4,4,The inside is really quite nice and very clean.
+750,1109,135038,4,4,4,"Oh this is such a thing of beauty, this restaurant."
+751,1109,135058,4,4,4,Your staff spends more time talking to themselves than me.
+752,1109,135032,4,4,4,"Maybe it's just their Vegetarian fare, but I've been twice and I thought it was average at best."
+753,1109,135028,4,4,4,This is an unbelievable BARGAIN!
+754,1109,135085,4,4,4,Highly unprofessional and rude to a loyal patron!
+755,1109,132825,4,4,4,"I've had better, not only from dedicated boba tea spots, but even from Jenni Pho."
+756,1110,134999,4,4,4,The ambience is wonderful and there is music playing.
+757,1110,135021,3,4,3,"I had a salad with the wings, and some ice cream for dessert and left feeling quite satisfied."
+758,1110,135013,4,4,4,So flavorful and has just the perfect amount of heat.
+759,1110,132767,4,4,4,"Great steak, great sides, great wine, amazing desserts."
+760,1111,132858,3,3,3,I don't think I'll be running back to Carly's anytime soon for food.
+761,1111,135108,4,3,2,RUDE & INCONSIDERATE MANAGEMENT.
+762,1111,132869,2,2,2,We enjoy their pizza and brunch.
+763,1111,135071,4,4,4,"On a positive note, our server was very attentive and provided great service."
+764,1111,132854,4,4,4,I loved the bacon wrapped dates.
+765,1111,132870,2,2,2,I would recommend saving room for this!
+766,1111,135082,3,2,2,"They will customize your order any way you'd like, my usual is Eggplant with Green Bean stir fry, love it!"
+767,1111,132845,4,4,3,I will not return.
+768,1111,132847,2,2,2,#NAME?
+769,1112,135086,2,2,2,And the beans and rice were mediocre at best.
+770,1112,132862,3,3,3,The one down note is the ventilation could use some upgrading.
+771,1112,135079,3,2,2,I got food poisoning here at the buffet.
+772,1112,135046,2,2,2,They brought a fresh batch of fries and I was thinking yay something warm but no!
+773,1112,135064,2,3,3,Wow... Loved this place.
+774,1112,135026,3,3,3,Not good by any stretch of the imagination.
+775,1112,135047,2,2,2,No complaints!
+776,1112,135048,2,2,2,"Point your finger at any item on the menu, order it and you won't be disappointed."
+777,1112,135062,2,2,3,I vomited in the bathroom mid lunch.
+778,1112,132954,2,2,3,2 Thumbs Up!!
+779,1112,132834,3,2,2,"At first glance it is a lovely bakery cafe - nice ambiance, clean, friendly staff."
+780,1113,132854,2,2,2,Always a pleasure dealing with him.
+781,1113,132856,2,3,2,Tried to go here for lunch and it was a madhouse.
+782,1113,135057,4,4,3,Awesome selection of beer.
+783,1113,135079,3,4,3,The WORST EXPERIENCE EVER.
+784,1113,135046,4,4,3,Food quality has been horrible.
+785,1113,135038,3,4,2,It's worth driving up from Tucson!
+786,1113,135032,2,2,2,I was shocked because no signs indicate cash only.
+787,1113,135085,3,4,3,Before I go in to why I gave a 1 star rating please know that this was my third time eating at Bachi burger before writing a review.
+788,1114,135072,2,2,2,The sweet potato fries were very good and seasoned well.
+789,1114,132754,2,2,2,We asked for the bill to leave without eating and they didn't bring that either.
+790,1114,135058,2,2,2,Please stay away from the shrimp stir fried noodles.
+791,1114,132755,3,4,3,The crêpe was delicate and thin and moist.
+792,1114,132951,2,2,2,I checked out this place a couple years ago and was not impressed.
+793,1114,135053,2,2,2,Tasted like dirt.
+794,1114,135065,2,2,2,The cashier was friendly and even brought the food out to me.
+795,1114,132825,2,2,2,"Bad day or not, I have a very low tolerance for rude customer service people, it is your job to be nice and polite, wash dishes otherwise!!"
+796,1114,132834,2,2,2,"Classy/warm atmosphere, fun and fresh appetizers, succulent steaks (Baseball steak!!!!!"
+797,1115,135082,4,4,4,I'll definitely be in soon again.
+798,1115,135070,3,3,3,"Great atmosphere, friendly and fast service."
+799,1115,135069,3,2,3,"I have been here several times in the past, and the experience has always been great."
+800,1115,135054,2,2,3,Sooooo good!!
+801,1115,135108,3,4,4,"a drive thru means you do not want to wait around for half an hour for your food, but somehow when we end up going here they make us wait and wait."
+802,1115,135071,4,4,4,The food was very good.
+803,1115,135057,4,4,4,The Veggitarian platter is out of this world!
+804,1116,135025,4,4,4,I'd love to go back.
+805,1116,135030,3,4,4,The food is very good for your typical bar food.
+806,1116,135059,2,4,4,He was terrible!
+807,1116,135060,2,2,2,say bye bye to your tip lady!
+808,1116,135038,4,4,4,Their frozen margaritas are WAY too sugary for my taste.
+809,1116,135052,4,4,4,Cant say enough good things about this place.
+810,1116,135047,4,4,4,Never again will I be dining at this place!
+811,1116,135027,2,4,4,This place is two thumbs up....way up.
+812,1116,135085,4,4,4,Delicious and I will absolutely be back!
+813,1116,132825,4,4,4,I've lived here since 1979 and this was the first (and last) time I've stepped foot into this place.
+814,1116,132834,4,4,4,I'm probably one of the few people to ever go to Ians and not like it.
+815,1117,132766,2,2,3,The food was excellent and service was very good.
+816,1117,135088,3,3,4,"To summarize... the food was incredible, nay, transcendant... but nothing brings me joy quite like the memory of the pneumatic condiment dispenser."
+817,1117,135018,3,3,3,Overpriced for what you are getting.
+818,1117,135016,4,4,3,"Best service and food ever, Maria our server was so good and friendly she made our day."
+819,1117,132773,3,4,4,"Worse of all, he humiliated his worker right in front of me..Bunch of horrible name callings."
+820,1117,135000,3,3,3,Worst Thai ever.
+821,1118,134992,2,2,2,"The fries were not hot, and neither was my burger."
+822,1118,135001,2,2,2,Best of luck to the rude and non-customer service focused new management.
+823,1118,135021,4,2,2,The yellowtail carpaccio was melt in your mouth fresh.
+824,1118,134987,2,2,2,Service stinks here!
+825,1118,132583,2,2,2,"Seriously flavorful delights, folks."
+826,1118,134983,2,2,2,Ryan's Bar is definitely one Edinburgh establishment I won't be revisiting.
+827,1118,132768,2,2,2,We were promptly greeted and seated.
+828,1119,135001,4,4,4,"Try them in the airport to experience some tasty food and speedy, friendly service."
+829,1119,134986,4,4,4,"This really is how Vegas fine dining used to be, right down to the menus handed to the ladies that have no prices listed."
+830,1119,132583,4,4,4,I wouldn't return.
+831,1119,135021,2,2,2,Crust is not good.
+832,1119,132768,4,4,4,"The guys all had steaks, and our steak loving son who has had steak at the best and worst places said it was the best steak he's ever eaten."
+833,1120,135045,3,4,4,Paying $7.85 for a hot dog and fries that looks like it came out of a kid's meal at the Wienerschnitzel is not my idea of a good meal.
+834,1120,135057,4,4,4,I immediately said I wanted to talk to the manager but I did not want to talk to the guy who was doing shots of fireball behind the bar.
+835,1120,135038,2,2,2,Great place fo take out or eat in.
+836,1120,135026,3,3,3,She was quite disappointed although some blame needs to be placed at her door.
+837,1120,135032,3,3,3,Waiter was a jerk.
+838,1120,135085,2,2,2,I did not expect this to be so good!
+839,1120,132845,3,2,4,The selection of food was not the best.
+840,1120,132846,4,4,3,I LOVED it!
+841,1120,132847,4,4,4,The black eyed peas and sweet potatoes... UNREAL!
+842,1121,134999,4,4,4,I had the opportunity today to sample your amazing pizzas!
+843,1121,135021,2,2,2,"No, I'm going to eat the potato that I found some strangers hair in it."
+844,1121,135019,4,4,4,AN HOUR... seriously?
+845,1121,132767,4,4,4,The cashier had no care what so ever on what I had to say it still ended up being wayyy overpriced.
+846,1122,135053,4,4,4,"Their menu is diverse, and reasonably priced."
+847,1122,135065,4,4,4,"The ambiance here did not feel like a buffet setting, but more of a douchey indoor garden for tea and biscuits."
+848,1122,135030,4,3,3,"The pizza tasted old, super chewy in not a good way."
+849,1122,135079,4,4,4,If you want a sandwich just go to any Firehouse!!!!!
+850,1122,135066,4,3,3,The only thing I wasn't too crazy about was their guacamole as I don't like it puréed.
+851,1122,135064,3,3,3,Much better than the other AYCE sushi place I went to in Vegas.
+852,1122,135038,4,4,4,Best tater tots in the southwest.
+853,1122,135058,4,2,4,"The best place in Vegas for breakfast (just check out a Sat, or Sun."
+854,1122,132754,4,3,4,"The staff is great, the food is delish, and they have an incredible beer selection."
+855,1122,135085,4,4,3,"I don't each much pasta, but I love the homemade /hand made pastas and thin pizzas here."
+856,1122,132834,4,3,3,Won't go back.
+857,1123,132613,3,4,3,Everything on the menu is terrific and we were also thrilled that they made amazing accommodations for our vegetarian daughter.
+858,1123,132608,3,4,3,"It was attached to a gas station, and that is rarely a good sign."
+859,1123,132667,3,4,3,"In fact I'm going to round up to 4 stars, just because she was so awesome."
+860,1124,135039,3,3,3,I think not again
+861,1124,135032,3,3,3,Very good lunch spot.
+862,1124,135081,3,3,2,"Friend's pasta -- also bad, he barely touched it."
+863,1124,135070,3,3,3,"My breakfast was perpared great, with a beautiful presentation of 3 giant slices of Toast, lightly dusted with powdered sugar."
+864,1124,135069,3,3,3,The pizza selections are good.
+865,1124,135054,3,3,3,How awesome is that.
+866,1124,135057,3,3,3,"I gave it 5 stars then, and I'm giving it 5 stars now."
+867,1124,135108,3,3,3,The shrimp tender and moist.
+868,1124,135071,3,2,3,First time going but I think I will quickly become a regular.
+869,1124,135050,2,3,2,I could eat their bruschetta all day it is devine.
+870,1125,135076,3,3,3,"Unfortunately, it was not good."
+871,1125,135042,3,3,3,The sweet potato tots were good but the onion rings were perfection or as close as I have had.
+872,1125,135066,3,2,3,Very poor service.
+873,1125,135063,3,4,3,The chicken was deliciously seasoned and had the perfect fry on the outside and moist chicken on the inside.
+874,1125,135060,3,2,4,My girlfriend's veal was very bad.
+875,1125,135038,4,4,3,This is a disgrace.
+876,1125,135081,2,2,4,This place has it!
+877,1125,135062,3,4,3,"The servers went back and forth several times, not even so much as an ""Are you being helped?"""
+878,1125,135032,3,4,3,These were so good we ordered them twice.
+879,1125,135043,3,3,4,The portion was huge!
+880,1125,135050,4,3,3,I ordered the Lemon raspberry ice cocktail which was also incredible.
+881,1126,135052,4,3,3,It was equally awful.
+882,1126,135038,3,2,3,Tonight I had the Elk Filet special...and it sucked.
+883,1126,135108,4,4,3,I recently tried Caballero's and I have been back every week since!
+884,1126,135041,4,3,3,"After waiting an hour and being seated, I was not in the greatest of moods."
+885,1126,135057,4,4,4,"The atmosphere is modern and hip, while maintaining a touch of coziness."
+886,1126,135054,3,4,3,"Sadly, Gordon Ramsey's Steak is a place we shall sharply avoid during our next trip to Vegas."
+887,1126,135069,2,2,2,What I really like there is the crepe station.
+888,1126,135040,2,2,2,I had a pretty satifying experience.
+889,1126,135106,4,4,4,"(It wasn't busy either) Also, the building was FREEZING cold."
+890,1127,135021,4,3,3,"If you're not familiar, check it out."
+891,1127,134987,4,2,4,It was probably dirt.
+892,1127,134996,4,4,4,Highly recommended.
+893,1128,135053,2,2,2,The patio seating was very comfortable.
+894,1128,135079,2,2,2,"The ripped banana was not only ripped, but petrified and tasteless."
+895,1128,135060,2,2,2,"I live in the neighborhood so I am disappointed I won't be back here, because it is a convenient location."
+896,1128,135064,2,2,2,"A couple of months later, I returned and had an amazing meal."
+897,1128,132951,2,2,2,Crostini that came with the salad was stale.
+898,1128,135058,2,2,2,This place is hands-down one of the best places to eat in the Phoenix metro area.
+899,1128,132954,2,2,2,"I'd say that would be the hardest decision... Honestly, all of M's dishes taste how they are supposed to taste (amazing)."
+900,1129,132706,2,2,3,I was disgusted because I was pretty sure that was human hair.
+901,1129,132654,2,2,2,We had a group of 70+ when we claimed we would only have 40 and they handled us beautifully.
+902,1130,132706,3,4,3,Coming here is like experiencing an underwhelming relationship where both parties can't wait for the other person to ask to break up.
+903,1130,132654,2,2,2,We'd definitely go back here again.
+904,1131,135082,2,3,2,Nicest Chinese restaurant I've been in a while.
+905,1131,132870,2,4,2,"I find wasting food to be despicable, but this just wasn't food."
+906,1131,135054,4,3,4,The classic Maine Lobster Roll was fantastic.
+907,1131,132869,3,4,3,WAAAAAAyyyyyyyyyy over rated is all I am saying.
+908,1131,132866,4,4,4,"for 40 bucks a head, i really expect better food."
+909,1132,135025,3,3,4,The potato chip order was sad... I could probably count how many chips were in that box and it was probably around 12.
+910,1132,135038,3,3,3,Everything was gross.
+911,1132,135051,3,3,2,They have great dinners.
+912,1132,135052,4,4,4,"I'm so happy to be here!!!"""
+913,1132,135027,4,3,2,Eew... This location needs a complete overhaul.
+914,1132,135062,4,3,3,The place was fairly clean but the food simply wasn't worth it.
+915,1132,135032,3,2,3,Probably not in a hurry to go back.
+916,1132,135028,4,4,4,I found a six inch long piece of wire in my salsa.
+917,1132,135085,4,4,4,"Nice, spicy and tender."
+918,1132,132825,4,4,4,I took back my money and got outta there.
+919,1133,134983,3,3,3,"The food is delicious and just spicy enough, so be sure to ask for spicier if you prefer it that way."
+920,1133,134992,3,4,3,After the disappointing dinner we went elsewhere for dessert.
+921,1133,135001,4,4,4,I paid the bill but did not tip because I felt the server did a terrible job.
+922,1133,135021,4,4,4,"Strike 2, who wants to be rushed."
+923,1133,134986,4,4,4,The Burrittos Blah!
+924,1133,132766,3,3,2,Best fish I've ever had in my life!
+925,1133,132767,2,2,2,Great pork sandwich.
+926,1133,135019,3,4,2,Everything was perfect the night we were in.
+927,1134,135065,4,4,4,"I LOVED their mussels cooked in this wine reduction, the duck was tender, and their potato dishes were delicious."
+928,1134,135079,3,3,4,"My side Greek salad with the Greek dressing was so tasty, and the pita and hummus was very refreshing."
+929,1134,135046,4,3,3,"Food was good, service was good, Prices were good."
+930,1134,135059,4,3,2,"The food was great as always, compliments to the chef."
+931,1134,135080,3,3,3,Stopped by during the late May bank holiday off Rick Steve recommendation and loved it.
+932,1134,135055,4,4,4,"If you want to wait for mediocre food and downright terrible service, then this is the place for you."
+933,1134,135074,4,4,4,"When my order arrived, one of the gyros was missing."
+934,1134,135064,4,4,4,"It was a bit too sweet, not really spicy enough, and lacked flavor."
+935,1134,135026,2,2,2,Seriously killer hot chai latte.
+936,1134,135047,3,3,3,"Service is quick and even ""to go"" orders are just like we like it!"
+937,1134,135044,3,3,3,* Both the Hot & Sour & the Egg Flower Soups were absolutely 5 Stars!
+938,1134,135075,4,3,3,"Then our food came out, disappointment ensued."
+939,1134,132754,4,3,3,Waited 2 hours & never got either of our pizzas as many other around us who came in later did!
+940,1134,135085,4,3,4,"The food sucked, which we expected but it sucked more than we could have imagined."
+941,1134,132825,3,4,3,it was a drive to get there.
+942,1135,135106,2,2,2,"Furthermore, you can't even find hours of operation on the website!"
+943,1135,132856,2,2,2,"Great place to eat, reminds me of the little mom and pop shops in the San Francisco Bay Area."
+944,1135,135042,2,2,2,"Will never, ever go back."
+945,1135,135045,2,2,2,"How can you call yourself a steakhouse if you can't properly cook a steak, I don't understand!"
+946,1135,135041,2,2,2,My sashimi was poor quality being soggy and tasteless.
+947,1135,135063,2,2,2,"Overall, I like this place a lot."
+948,1135,135060,2,2,2,you can watch them preparing the delicious food!)
+949,1135,135052,2,2,2,"Although I very much liked the look and sound of this place, the actual experience was a bit disappointing."
+950,1135,135058,2,2,2,The last 3 times I had lunch here has been bad.
+951,1135,135032,2,2,2,They dropped more than the ball.
+952,1135,135028,2,2,2,"Needless to say, we will never be back here again."
+953,1135,135085,2,2,2,I consider this theft.
+954,1135,132825,2,2,2,Join the club and get awesome offers via email.
+955,1135,132834,2,2,2,When I received my Pita it was huge it did have a lot of meat in it so thumbs up there.
+956,1136,135072,3,3,3,When my mom and I got home she immediately got sick and she only had a few bites of salad.
+957,1136,132862,4,4,4,Mediocre food.
+958,1136,135046,4,4,4,Not my thing.
+959,1136,135055,4,4,4,The service was extremely slow.
+960,1136,135074,3,3,4,"Very, very sad."
+961,1136,135064,3,3,3,"I kept looking at the time and it had soon become 35 minutes, yet still no food."
+962,1136,135048,3,4,4,After I pulled up my car I waited for another 15 minutes before being acknowledged.
+963,1136,135028,4,4,4,We ordered the duck rare and it was pink and tender on the inside with a nice char on the outside.
+964,1136,132958,4,4,4,An excellent new restaurant by an experienced Frenchman.
+965,1137,132862,4,4,4,They know how to make them here.
+966,1137,135042,4,4,4,I asked multiple times for the wine list and after some time of being ignored I went to the hostess and got one myself.
+967,1137,135059,4,2,4,We won't be returning.
+968,1137,132951,4,4,4,"If you want healthy authentic or ethic food, try this place."
+969,1137,135085,4,3,4,Waitress was a little slow in service.
+970,1137,135058,2,4,4,"There is really nothing for me at postinos, hope your experience is better"
+971,1137,135062,4,4,4,Best breakfast buffet!!!
+972,1137,135075,4,4,4,Update.....went back for a second time and it was still just as amazing
+973,1137,135049,4,4,4,First - the bathrooms at this location were dirty- Seat covers were not replenished & just plain yucky!!!
+974,1137,132755,4,4,4,I love the Pho and the spring rolls oh so yummy you have to try.
+975,1137,132825,4,4,3,"Come hungry, leave happy and stuffed!"
+976,1137,132834,4,4,4,"They could serve it with just the vinaigrette and it may make for a better overall dish, but it was still very good."

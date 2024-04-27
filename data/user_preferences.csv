@@ -1,0 +1,131 @@
+userID,smoker,drink_level,dress_preference,ambience,activity,transport,interest,budget
+1050,False,social drinker,no preference,family,student,car owner,variety,medium
+1103,False,abstemious,formal,friends,professional,public,technology,medium
+1087,False,abstemious,no preference,solitary,student,public,variety,medium
+1082,True,abstemious,informal,friends,student,public,variety,medium
+1067,False,abstemious,no preference,family,student,public,technology,medium
+1068,False,casual drinker,informal,friends,student,public,technology,low
+1043,False,abstemious,no preference,solitary,student,public,technology,medium
+1028,False,abstemious,no preference,family,student,public,variety,medium
+1130,False,abstemious,no preference,family,student,public,none,medium
+1065,False,abstemious,formal,friends,student,public,technology,medium
+1129,False,casual drinker,no preference,friends,student,public,variety,low
+1026,False,abstemious,formal,family,student,public,technology,medium
+1044,True,social drinker,informal,family,professional,car owner,variety,medium
+1093,True,casual drinker,no preference,family,student,car owner,variety,medium
+1051,False,casual drinker,no preference,family,professional,public,variety,medium
+1119,False,abstemious,formal,family,student,public,eco-friendly,medium
+1079,False,abstemious,formal,family,student,public,technology,medium
+1020,False,abstemious,no preference,friends,professional,public,technology,medium
+1042,False,abstemious,no preference,family,student,car owner,technology,high
+1074,True,casual drinker,no preference,family,professional,car owner,eco-friendly,medium
+1100,False,casual drinker,formal,friends,student,public,eco-friendly,medium
+1012,False,casual drinker,formal,family,student,public,technology,medium
+1017,False,casual drinker,formal,family,professional,public,retro,medium
+1133,False,abstemious,no preference,family,student,car owner,none,medium
+1118,True,casual drinker,informal,friends,student,public,technology,medium
+1041,False,abstemious,no preference,friends,professional,on foot,eco-friendly,medium
+1127,False,abstemious,no preference,solitary,student,public,variety,low
+1030,False,casual drinker,formal,family,student,on foot,eco-friendly,medium
+1072,False,casual drinker,no preference,family,student,public,eco-friendly,medium
+1035,True,casual drinker,no preference,friends,student,car owner,variety,medium
+1110,False,abstemious,no preference,family,student,car owner,variety,medium
+1121,False,social drinker,no preference,family,working-class,public,variety,medium
+1117,False,abstemious,no preference,friends,professional,public,technology,medium
+1066,False,abstemious,informal,solitary,student,public,technology,low
+1040,False,abstemious,no preference,friends,student,public,none,medium
+1124,False,casual drinker,informal,friends,student,public,none,low
+1064,False,casual drinker,formal,solitary,student,public,variety,medium
+1048,True,casual drinker,no preference,family,student,public,eco-friendly,medium
+1008,False,social drinker,formal,solitary,student,public,technology,low
+1111,True,casual drinker,formal,friends,student,car owner,none,medium
+1131,True,social drinker,no preference,friends,student,car owner,eco-friendly,medium
+1069,False,social drinker,no preference,family,professional,public,variety,medium
+1073,False,abstemious,informal,solitary,unemployed,car owner,none,medium
+1122,False,abstemious,no preference,family,student,public,none,medium
+1046,False,social drinker,no preference,friends,student,car owner,retro,medium
+1010,False,social drinker,no preference,friends,student,car owner,technology,medium
+1033,False,social drinker,no preference,family,student,on foot,none,low
+1096,False,abstemious,formal,family,student,public,eco-friendly,medium
+1037,False,social drinker,no preference,family,student,public,variety,low
+1027,True,social drinker,no preference,family,student,public,retro,low
+1128,False,casual drinker,no preference,friends,student,public,variety,low
+1125,False,casual drinker,formal,friends,student,public,technology,low
+1088,False,social drinker,informal,family,student,on foot,none,medium
+1105,False,social drinker,formal,family,student,public,variety,medium
+1013,False,abstemious,no preference,friends,professional,public,retro,medium
+1089,True,casual drinker,informal,family,student,public,variety,low
+1094,False,abstemious,informal,friends,student,public,variety,medium
+1115,True,social drinker,elegant,friends,student,public,variety,low
+1018,True,casual drinker,formal,friends,student,public,technology,low
+1014,False,abstemious,no preference,friends,student,public,none,medium
+1108,False,abstemious,informal,solitary,student,public,technology,medium
+1086,False,social drinker,no preference,family,student,car owner,variety,medium
+1054,False,social drinker,formal,family,student,public,technology,medium
+1032,False,abstemious,formal,family,student,public,variety,medium
+1015,True,social drinker,informal,family,student,public,technology,medium
+1102,False,social drinker,no preference,friends,student,on foot,eco-friendly,low
+1038,True,social drinker,no preference,family,student,public,variety,low
+1113,False,casual drinker,formal,family,student,public,none,medium
+1084,True,casual drinker,formal,family,student,public,variety,medium
+1076,False,social drinker,elegant,family,student,public,technology,medium
+1120,False,abstemious,informal,friends,student,public,variety,low
+1092,False,abstemious,formal,solitary,student,public,variety,medium
+1083,False,abstemious,no preference,family,student,public,none,medium
+1136,True,social drinker,no preference,friends,student,car owner,retro,low
+1090,False,social drinker,no preference,friends,student,car owner,variety,medium
+1052,True,social drinker,no preference,family,student,on foot,none,low
+1019,False,casual drinker,no preference,family,student,public,variety,medium
+1099,True,social drinker,informal,family,student,public,technology,high
+1058,False,abstemious,formal,family,student,public,variety,low
+1005,False,abstemious,no preference,family,student,public,none,medium
+1075,False,casual drinker,informal,family,student,car owner,technology,medium
+1112,True,casual drinker,formal,friends,student,car owner,none,medium
+1097,False,abstemious,formal,family,student,public,variety,medium
+1007,False,casual drinker,informal,solitary,student,public,variety,low
+1034,False,casual drinker,informal,family,student,public,technology,medium
+1095,False,abstemious,formal,family,student,public,variety,medium
+1045,False,casual drinker,elegant,friends,student,car owner,technology,high
+1009,False,abstemious,formal,family,student,on foot,variety,medium
+1135,False,casual drinker,informal,family,student,on foot,variety,low
+1104,True,social drinker,no preference,family,student,car owner,technology,medium
+1071,False,abstemious,formal,friends,student,car owner,none,high
+1049,False,casual drinker,informal,solitary,student,public,none,medium
+1098,False,social drinker,formal,family,student,public,none,medium
+1003,False,social drinker,formal,family,student,public,none,low
+1091,False,casual drinker,no preference,family,student,car owner,eco-friendly,low
+1029,True,casual drinker,formal,family,student,public,variety,low
+1137,False,social drinker,formal,family,student,public,eco-friendly,low
+1062,False,casual drinker,informal,friends,student,car owner,variety,medium
+1109,False,abstemious,formal,solitary,student,public,eco-friendly,low
+1085,False,abstemious,no preference,solitary,student,car owner,technology,medium
+1081,False,casual drinker,informal,family,student,public,variety,low
+1001,False,abstemious,informal,family,student,on foot,variety,medium
+1056,False,social drinker,informal,family,student,on foot,none,medium
+1134,False,casual drinker,no preference,family,student,public,variety,medium
+1053,False,casual drinker,informal,family,student,public,variety,low
+1077,False,social drinker,elegant,family,student,public,technology,medium
+1055,False,abstemious,no preference,family,professional,car owner,none,medium
+1024,False,abstemious,no preference,family,student,public,none,medium
+1132,False,casual drinker,informal,solitary,student,public,none,medium
+1036,False,social drinker,informal,family,student,public,none,medium
+1116,False,social drinker,formal,family,student,public,technology,medium
+1004,False,abstemious,informal,family,professional,public,variety,medium
+1006,True,social drinker,no preference,friends,student,car owner,variety,medium
+1106,False,casual drinker,informal,friends,professional,car owner,technology,medium
+1059,False,abstemious,formal,friends,student,on foot,technology,medium
+1016,False,casual drinker,informal,friends,student,on foot,eco-friendly,medium
+1025,False,social drinker,no preference,family,student,public,none,medium
+1126,False,casual drinker,formal,friends,student,on foot,technology,low
+1002,False,abstemious,informal,family,student,public,technology,low
+1057,True,casual drinker,formal,friends,student,public,technology,medium
+1022,False,casual drinker,formal,family,student,car owner,variety,medium
+1114,False,abstemious,no preference,family,student,on foot,variety,medium
+1061,False,social drinker,no preference,friends,professional,car owner,none,medium
+1078,True,social drinker,informal,solitary,professional,car owner,variety,medium
+1101,False,casual drinker,no preference,friends,student,car owner,eco-friendly,low
+1070,False,casual drinker,informal,friends,student,public,variety,low
+1080,True,social drinker,formal,friends,student,car owner,variety,low
+1123,False,abstemious,informal,family,student,public,technology,medium
+1063,False,casual drinker,formal,family,student,public,eco-friendly,medium
+1107,False,abstemious,no preference,friends,student,car owner,variety,high

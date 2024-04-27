@@ -6,16 +6,32 @@ import datetime
 from sqlalchemy.sql import text
 
 if 'conn' not in st.session_state:
-    conn = st.connection('mysql', type='sql')
+    conn = st.connection('aws_rds', type='sql')
 else:
     conn = st.session_state.conn
 
+logged_cont = st.empty()
+
 if 'userid' in st.session_state:
-    st.info('You are already logged in!')
-    st.info('Redirecting to Settings Page...')
-    st.session_state.previous_page = 'pages/Sign_In.py'
-    time.sleep(1)
-    st.switch_page('./pages/Settings.py')
+    logged_cont.info('You are already logged in!')
+    st.markdown('### Do you want to log out of your account ?')
+    yes_cont, no_cont = st.columns(2)
+    yes = yes_cont.button('Yes')
+    no = no_cont.button('No', type='primary')
+
+    if yes:
+        del st.session_state.userid
+        logged_cont.success('You have been successfully logged out of your account! Redirecting to Sign-In Page...')
+        time.sleep(2)
+        st.rerun()
+
+    if no:
+        logged_cont.info('Redirecting to Settings Page...')
+        time.sleep(2)
+        st.session_state.previous_page = 'pages/Sign_In.py'
+        st.switch_page('pages/Settings.py')
+
+    st.stop()
 
 
 st.title('Hi, there!')
@@ -33,24 +49,32 @@ signup_tab.subheader('New user ? Sign up to get the most out of our App.')
 
 def validate_email(email, password):
     validate_email_sql = f'''
-        SELECT *
+        SELECT userID
         FROM users
         WHERE email = "{email}";
     '''
 
-    user_credentials = conn.query(validate_email_sql, ttl=0)
+    valid_email = conn.query(validate_email_sql, ttl=0)
 
-    if user_credentials.empty:
+    if valid_email.empty:
         login_result_container.info('Sorry, we couldn\'t find an account with that email. Please double-check the email entered and try again.')
     
     else:
-        validate_user_credentials(user_credentials, password)
+        validate_user_credentials(email, password)
 
 
-def validate_user_credentials(user_credentials, password):
-    user_pass = user_credentials['password'][0]
-    if password == user_pass:
-        st.session_state.userid = user_credentials['userID'][0]
+def validate_user_credentials(email, password):
+    validate_password_sql = f'''
+        SELECT userID
+        FROM users
+        WHERE email = "{email}"
+              AND password = SHA2("{password}", 256);
+    '''
+
+    valid_password = conn.query(validate_password_sql, ttl=0)
+
+    if not valid_password.empty:
+        st.session_state.userid = valid_password['userID'][0]
         login_result_container.success('Successfully logged in! Redirecting to previous page...')
         previous_page = st.session_state.previous_page if st.session_state.get('previous_page') else 'Home.py'
         redirect_page = (previous_page if os.path.basename(previous_page) != os.path.basename(__file__) else 'Home.py')
@@ -105,7 +129,7 @@ with signup_tab.form('sign_up_form'):
 
     marital_cont, birth_year_cont = st.columns(2)
     marital_status_text_val = marital_cont.text_input('Marital Status', placeholder='Required')
-    birth_year_val = birth_year_cont.selectbox('Birth Year', range(datetime.date.today().year, 1990, -1), index=None, placeholder='Required')
+    birth_year_val = birth_year_cont.selectbox('Birth Year', range(datetime.date.today().year, 1930, -1), index=None, placeholder='Required')
 
     hijos_cont, pers_cont = st.columns(2)
     hijos_text_val = hijos_cont.text_input('Hijos', placeholder='Optional')
@@ -132,7 +156,7 @@ with signup_tab.form('sign_up_form'):
             
             insert_new_user_sql = f'''
             INSERT INTO users
-            VALUES (NULL, "{first_name_text_val}", "{last_name_text_val}", "{phone_number_val}", "{email_text_val}", "{password_text_val}", 
+            VALUES (NULL, "{first_name_text_val}", "{last_name_text_val}", "{phone_number_val}", "{email_text_val}", SHA2("{password_text_val}", 256), 
                           "{marital_status_text_val}", "{hijos_text_val}", {birth_year_val}, "{personality_text_val}", 
                           "{religion_text_val}", "{color_text_val}", {weight_text_val}, {height_text_val});
             '''.replace(', ""', ', NULL').replace(', ,', ', NULL,').replace(', )', ', NULL)')
